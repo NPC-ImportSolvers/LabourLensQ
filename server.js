@@ -3,46 +3,41 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 dotenv.config();
 
-// Dynamic import for node-fetch
 const fetch = (await import('node-fetch')).default;
 
 const app = express();
-app.use(express.json());  
-app.use(cors());  
-app.use(express.static('public')); 
-app.use(cors({ origin: "*" }));
+const PORT = process.env.PORT || 3000;
 
-//Check if API key and endpoint are loaded
-const apiUrl = "https://chatbot4npc.openai.azure.com/openai/deployments/gpt-4/chat/completions?api-version=2024-02-15-preview"; // Make sure this is correct!
-console.log("Using API URL:", apiUrl);
-console.log("API Key Loaded:", process.env.OPENAI_API_KEY ? "Yes" : "No");
+// Middleware
+app.use(express.json());
+app.use(cors());
+app.use(express.static('public')); // Serve static files from the "public" folder
 
-//API route (Move fetch() inside here)
+// API route
 app.post('/chat', async (req, res) => {
-    const userMessage = req.body.message; // Get message from request body
+    const userMessage = req.body.message;
 
     try {
-        let response = await fetch(apiUrl, {
-            method: "POST",
+        const response = await fetch('https://chatbot4npc.openai.azure.com/openai/deployments/gpt-4/chat/completions?api-version=2024-02-15-preview', {
+            method: 'POST',
             headers: {
-                "Content-Type": "application/json",
-                "api-key": process.env.OPENAI_API_KEY 
+                'Content-Type': 'application/json',
+                'api-key': process.env.OPENAI_API_KEY,
             },
             body: JSON.stringify({
-                messages: [{ role: "user", content: userMessage }]
-            })
+                messages: [{ role: 'user', content: userMessage }],
+            }),
         });
 
-        let data = await response.json();
-        console.log("API Response:", JSON.stringify(data, null, 2)); // Debugging
-
-        res.json(data); // Send response back to frontend
+        const data = await response.json();
+        res.json(data);
     } catch (error) {
-        console.error("Error fetching response:", error);
-        res.status(500).json({ error: "Error fetching response." });
+        console.error('Error fetching response:', error);
+        res.status(500).json({ error: 'Error fetching response.' });
     }
 });
 
-app.listen(3000, () => {
-    console.log('Server running on http://localhost:3000');
+// Start the server
+app.listen(PORT, () => {
+    console.log(`Server running on http://localhost:${PORT}`);
 });
