@@ -12,6 +12,7 @@ LaborLense is a project focused on the descriptive and predictive analysis of Qa
 
 ### Installation
 1. Clone the repository:
+3. Run `npm install express cors dotenv node-fetch`
 2. Run `npm install` to install the required packages.
 3. If any Python scripts are included, install the required Python packages using pip.
 4. Run requirements.txt to install all the necessary package using the command `pip install -r requirements.txt`
