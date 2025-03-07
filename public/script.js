@@ -1,4 +1,4 @@
-const backendUrl = 'https://your-render-backend-url.onrender.com'; // Replace with your Render backend URL
+const backendUrl = 'https://npc-labourlensq.onrender.com'; // Replace with your Render backend URL
 
 document.getElementById('send-btn').addEventListener('click', sendMessage);
 
