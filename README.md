@@ -3,6 +3,19 @@
 ## Project Overview
 LaborLense is a project focused on the descriptive and predictive analysis of Qatar's labor market. The goal is to provide valuable insights based on economic activity, gender, education level, and GDP trends. This project serves policymakers, researchers, and businesses by helping them understand labor market trends and make informed decisions.
 
+## Getting Started
+
+### Prerequisites
+- Node.js (v14 or higher)
+- npm (Node Package Manager)
+- Python (if any Python scripts are included)
+
+### Installation
+1. Clone the repository:
+2. Run `npm install` to install the required packages.
+3. If any Python scripts are included, install the required Python packages using pip.
+4. Run requirements.txt to install all the necessary package using the command `pip install -r requirements.txt`
+
 ## Features
 - **Interactive Dashboards**: Data visualizations for better understanding labor trends.
 - **Predictive Modeling**: Forecasting labor market shifts using machine learning techniques.
