@@ -16,6 +16,8 @@ LaborLense is a project focused on the descriptive and predictive analysis of Qa
 2. Run `npm install` to install the required packages.
 3. If any Python scripts are included, install the required Python packages using pip.
 4. Run requirements.txt to install all the necessary package using the command `pip install -r requirements.txt`
+5. Create a new file named `.env` in the root directory and add your API keys and other sensitive information.
+6. Run `node server.js` to start the server.
 
 ## Features
 - **Interactive Dashboards**: Data visualizations for better understanding labor trends.
