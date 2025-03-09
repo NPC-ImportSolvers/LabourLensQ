@@ -18,7 +18,7 @@ app.post('/chat', async (req, res) => {
     const userMessage = req.body.message;
 
     try {
-        const response = await fetch('https://chatbot4npc.openai.azure.com/openai/deployments/gpt-4/chat/completions?api-version=2024-02-15-preview', {
+        const response = await fetch('https://chatbot4npc.openai.azure.com/openai/deployments/gpt-4/extensions/chat/completions?api-version=2024-02-15-preview', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
