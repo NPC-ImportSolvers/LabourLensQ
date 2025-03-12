@@ -1,4 +1,4 @@
-﻿Year,Economic Sector,Degree Type,Academic Degree,Male,Female
+Year,Economic Sector,Degree Type,Academic Degree,Male,Female
 2011,Education  ,Bachelors  , B.A In Education,13,42
 2011,"Arts, entertainment and recreation  ",Bachelors  ,B.A In Art & science,38,392
 2011,Public administration and defence; compulsory social security  ,Bachelors  ,B.A In Sharia & Islamic Studies,25,89
@@ -61,17 +61,17 @@ a",35,98
 2014,Education,Diploma,Diploma in Secondary Education,2,0
 2014,Education,Master,Special Education Diploma,2,2
 2014,Education,Master,Special Education Masters,2,7
-2014,Natural sciences,Master,Education Leadership Masters,5,13
+2014,"Professional, scientific and technical activities",Master,Education Leadership Masters,5,13
 2014,Human health and social work activities,Master,Environmental Sciences Masters,0,5
 2014,Public administration and defence; compulsory social security,Master,Biomedical Laboratory Sciences Master,0,4
 2014,Financial and insurance activities,Master,Gulf Studies Master,0,1
 2014,Financial and insurance activities,Master,Master in Buissness Mangement,7,12
 2014,Information and communication,Master,Accounting Masters,4,0
-2014,Engineering,Master,Computing Master,5,9
-2014,Engineering,Master,Electrical Engineering Master,1,0
-2014,Engineering,Master,Engineering Management Master,3,2
-2014,Engineering,Master,Environmental Engineering Master,3,2
-2014,Architecture and urban planning,Master,Urban Planning and Design Master,0,2
+2014,Information and communication,Master,Computing Master,5,9
+2014,"Electricity, gas, steam and air conditioning supply",Master,Electrical Engineering Master,1,0
+2014,"Professional, scientific and technical activities",Master,Engineering Management Master,3,2
+2014,"Water supply; sewerage, waste management and remediation activities",Master,Environmental Engineering Master,3,2
+2014,"Professional, scientific and technical activities",Master,Urban Planning and Design Master,0,2
 2014,Human health and social work activities,Doctorate,Doctor of Pharmacy,0,7
 2014,Human health and social work activities,Master,Pharmacy Master,0,1
 2015,Education,Bachelors, B.A In Education,1,9
@@ -86,21 +86,21 @@ a",35,98
 2015,Education,Diploma,Diploma in Secondary Education,0,1
 2015,Education,Master,Special Education Diploma,0,0
 2015,Education,Master,Special Education Masters,2,4
-2015,Natural sciences,Master,Education Leadership Masters,2,8
+2015,"Professional, scientific and technical activities",Master,Education Leadership Masters,2,8
 2015,Human health and social work activities,Master,Environmental Sciences Masters,2,5
 2015,Public administration and defence; compulsory social security,Master,Biomedical Laboratory Sciences Master,0,7
 2015,Education,Master,Gulf Studies Master,4,8
-2015,Natural sciences,Master,Arabic Language & Literature(Masters),0,11
+2015,"Professional, scientific and technical activities",Master,Arabic Language & Literature(Masters),0,11
 2015,"Professional, scientific and technical activities",Master,Material Sci and Technology (Masters ),4,0
 2015,Financial and insurance activities,Master,Master in Buissness Mangement,12,11
 2015,Financial and insurance activities,Master,Accounting Masters,2,11
-2015,Engineering,Master,Civil Engineering (Masters ),1,0
+2015,Construction,Master,Civil Engineering (Masters ),1,0
 2015,Information and communication,Master,Computing (Masters ),3,8
-2015,Engineering,Master,Electrical Engineering (Masters ),2,0
-2015,Engineering,Master,Engineering Management (Masters ),12,8
-2015,Engineering,Master,Environmental Engineering (Masters ),2,5
-2015,Engineering,Master,Mechanical Engineering (Masters ),3,0
-2015,Architecture and urban planning,Master,Urban Planning and Design (Masters ),0,2
+2015,"Electricity, gas, steam and air conditioning supply",Master,Electrical Engineering (Masters ),2,0
+2015,"Professional, scientific and technical activities",Master,Engineering Management (Masters ),12,8
+2015,"Water supply; sewerage, waste management and remediation activities",Master,Environmental Engineering (Masters ),2,5
+2015,Manufacturing,Master,Mechanical Engineering (Masters ),3,0
+2015,"Professional, scientific and technical activities",Master,Urban Planning and Design (Masters ),0,2
 2015,Human health and social work activities,Doctorate,Doctor of Pharmacy,2,10
 2015,Human health and social work activities,Master,Pharmacy Master,0,1
 2015,Education,Master,Fiqh and Usul Al Fiqh (Masters),4,1
@@ -108,7 +108,7 @@ a",35,98
 2016,Education,Bachelors, B.A In Education,1,102
 2016,"Arts, entertainment and recreation",Bachelors,B.A In Art & science,91,679
 2016,Education,Bachelors,B.A In Sharia & Islamic Studies,30,103
-2016,Engineering,Bachelors,B.Sc. In Engineering,115,120
+2016,"Professional, scientific and technical activities",Bachelors,B.Sc. In Engineering,115,120
 2016,Financial and insurance activities,Bachelors,"B.Sc. In Admin, & Economics",117,354
 2016,Public administration and defence; compulsory social security,Bachelors,B.Sc. In Law,46,109
 2016,Human health and social work activities,Bachelors,B.Sc. Pharmacy,0,25
@@ -122,27 +122,27 @@ a",35,98
 2016,Education,Master,Master of Arabic Language & Literature,0,4
 2016,Human health and social work activities,Master,Master of Biomedical Laboratory Sciences,0,2
 2016,Human health and social work activities,Master,Master of Biomedical Sciences,0,6
-2016,Natural sciences,Master,Master of Environmental Science,1,4
+2016,"Professional, scientific and technical activities",Master,Master of Environmental Science,1,4
 2016,Public administration and defence; compulsory social security,Master,Master of Arab Gulf Studies,3,8
-2016,Natural sciences,Master,Master of Materials Science and Technology,2,7
+2016,"Professional, scientific and technical activities",Master,Master of Materials Science and Technology,2,7
 2016,Financial and insurance activities,Master,Master of Accounting,6,5
 2016,Financial and insurance activities,Master,Master of Business Administration,7,7
-2016,Engineering,Master,Master of Civil Engineering,5,0
+2016,Construction,Master,Master of Civil Engineering,5,0
 2016,Information and communication,Master,Master of Computing,3,7
-2016,Engineering,Master,Master of Electrical Engineering,6,0
-2016,Engineering,Master,Master of Engineering Management,12,11
-2016,Engineering,Master,Master of Environmental Engineering,2,2
-2016,Engineering,Master,Master of Mechanical Engineering,2,0
-2016,Architecture and urban planning,Master,Master of Planning and Urban Design,0,5
+2016,"Electricity, gas, steam and air conditioning supply",Master,Master of Electrical Engineering,6,0
+2016,"Professional, scientific and technical activities",Master,Master of Engineering Management,12,11
+2016,"Water supply; sewerage, waste management and remediation activities",Master,Master of Environmental Engineering,2,2
+2016,Manufacturing,Master,Master of Mechanical Engineering,2,0
+2016,"Professional, scientific and technical activities",Master,Master of Planning and Urban Design,0,5
 2016,Human health and social work activities,Doctorate,Doctor Pharmacy,1,6
 2016,Human health and social work activities,Master,Master  of Pharmacy,2,4
 2016,Education,Master, Master of Fiqh and Usul Al Fiqh,2,0
 2016,Education,Master,Master of Quranic Sciences and Exegesis,1,1
-2016,Engineering,Doctorate,PhD in Civil Engineering,0,1
+2016,Construction,Doctorate,PhD in Civil Engineering,0,1
 2017,Education,Bachelors, B.A In Education,18,255
 2017,"Arts, entertainment and recreation",Bachelors,B.A In Art & science,161,794
 2017,Education,Bachelors,B.A In Sharia & Islamic Studies,36,146
-2017,Engineering,Bachelors,B.Sc. In Engineering,185,216
+2017,"Professional, scientific and technical activities",Bachelors,B.Sc. In Engineering,185,216
 2017,Financial and insurance activities,Bachelors,"B.Sc. In Admin, & Economics",216,597
 2017,Public administration and defence; compulsory social security,Bachelors,B.Sc. In Law,48,108
 2017,Human health and social work activities,Bachelors,B.Sc Health Sciences,0,72
@@ -153,21 +153,21 @@ a",35,98
 2017,Education,Diploma,Special Education,11,8
 2017,Education,Master,Arabic Language & Literature,0,6
 2017,Human health and social work activities,Master,Biomedical Sciences,0,1
-2017,Natural sciences,Master,Environmental Sciences,3,5
+2017,"Professional, scientific and technical activities",Master,Environmental Sciences,3,5
 2017,Public administration and defence; compulsory social security,Master,Gulf Studies,1,13
-2017,Natural sciences,Master,Material Science and Technology,4,1
+2017,"Professional, scientific and technical activities",Master,Material Science and Technology,4,1
 2017,Financial and insurance activities,Master,Accounting,4,6
 2017,Financial and insurance activities,Master,Business Administration,10,6
 2017,Education,Master,Curriculum in Education and Assessment,0,3
 2017,Education,Master,Education Leadership,0,12
 2017,Education,Master,Special Education,1,9
-2017,Engineering,Master,Civil Engineering,5,0
+2017,Construction,Master,Civil Engineering,5,0
 2017,Information and communication,Master,Computing,4,9
-2017,Engineering,Master,Electrical Engineering,3,2
-2017,Engineering,Master,Engineering Management,12,9
-2017,Engineering,Master,Environmental Engineering,4,4
-2017,Engineering,Master,Mechanical Engineering,3,1
-2017,Architecture and urban planning,Master,Urban Planning and Design,1,12
+2017,"Electricity, gas, steam and air conditioning supply",Master,Electrical Engineering,3,2
+2017,"Professional, scientific and technical activities",Master,Engineering Management,12,9
+2017,"Water supply; sewerage, waste management and remediation activities",Master,Environmental Engineering,4,4
+2017,Manufacturing,Master,Mechanical Engineering,3,1
+2017,"Professional, scientific and technical activities",Master,Urban Planning and Design,1,12
 2017,Human health and social work activities,Master,Biomedical Sciences,0,2
 2017,Human health and social work activities,Master,Public Health,0,3
 2017,Public administration and defence; compulsory social security,Master,Private Law,4,6
@@ -175,16 +175,16 @@ a",35,98
 2017,Human health and social work activities,Master,Pharmacy,3,22
 2017,Education,Master,Fiqh and Usul Al Fiqh,7,4
 2017,Education,Master,Quranic Sciences and Exegesis,8,5
-2017,Natural sciences,Doctorate,Biological & Environmental Sci,0,1
-2017,Engineering,Doctorate,Civil Engineering,1,0
+2017,"Professional, scientific and technical activities",Doctorate,Biological & Environmental Sci,0,1
+2017,Construction,Doctorate,Civil Engineering,1,0
 2017,Information and communication,Doctorate,Computer Science,0,1
-2017,Architecture and urban planning,Doctorate,Urban Planning and Design,0,1
+2017,"Professional, scientific and technical activities",Doctorate,Urban Planning and Design,0,1
 2018,Education,Pre-University Diploma,Community College ,226,519
 2018,Public administration and defence; compulsory social security,Pre-University Diploma,Ras Laffan Emergency & Safety College ,20,1
 2018,Education,Bachelors, B.A In Education,11,288
 2018,"Arts, entertainment and recreation",Bachelors,B.A In Art & science,162,901
 2018,Education,Bachelors,B.A In Sharia & Islamic Studies,45,139
-2018,Engineering,Bachelors,B.Sc. In Engineering,222,218
+2018,"Professional, scientific and technical activities",Bachelors,B.Sc. In Engineering,222,218
 2018,Financial and insurance activities,Bachelors,"B.Sc. In Admin, & Economics",251,604
 2018,Public administration and defence; compulsory social security,Bachelors,B.Sc. In Law,51,142
 2018,Human health and social work activities,Bachelors,B.Sc Health Sciences,0,87
@@ -193,24 +193,24 @@ a",35,98
 2018,Education,Diploma,Primary Education,0,7
 2018,Education,Diploma,Secondary Education,3,1
 2018,Education,Diploma,Special Education,6,7
-2018,Natural sciences,Master,Applied Statistics,0,2
+2018,"Professional, scientific and technical activities",Master,Applied Statistics,0,2
 2018,Education,Master,Arabic Language & Literature,1,9
-2018,Natural sciences,Master,Environmental Sciences,3,4
+2018,"Professional, scientific and technical activities",Master,Environmental Sciences,3,4
 2018,Public administration and defence; compulsory social security,Master,Gulf Studies,1,7
-2018,Natural sciences,Master,Material Sciences & Technology,2,4
+2018,"Professional, scientific and technical activities",Master,Material Sciences & Technology,2,4
 2018,Financial and insurance activities,Master,Accounting,1,9
 2018,Financial and insurance activities,Master,Business Administration,12,18
 2018,Financial and insurance activities,Master,Marketing,3,18
 2018,Education,Master,"Curriculum,Instruc. & Assessm.",2,6
 2018,Education,Master,Education Leadership,2,8
 2018,Education,Master,Special Education,0,3
-2018,Engineering,Master,Civil Engineering,10,0
+2018,Construction,Master,Civil Engineering,10,0
 2018,Information and communication,Master,Computing,8,8
-2018,Engineering,Master,Electrical Engineering,5,2
-2018,Engineering,Master,Engineering Management,11,12
-2018,Engineering,Master,Environmental Engineering,3,4
-2018,Engineering,Master,Mechanical Engineering,7,0
-2018,Architecture and urban planning,Master,Urban Planning and Design,1,6
+2018,"Electricity, gas, steam and air conditioning supply",Master,Electrical Engineering,5,2
+2018,"Professional, scientific and technical activities",Master,Engineering Management,11,12
+2018,"Water supply; sewerage, waste management and remediation activities",Master,Environmental Engineering,3,4
+2018,Manufacturing,Master,Mechanical Engineering,7,0
+2018,"Professional, scientific and technical activities",Master,Urban Planning and Design,1,6
 2018,Human health and social work activities,Master,Biomedical Sciences,1,9
 2018,Human health and social work activities,Master,Public Health,5,5
 2018,Public administration and defence; compulsory social security,Master,Private Law,4,6
@@ -218,17 +218,17 @@ a",35,98
 2018,Human health and social work activities,Master,Pharmacy,2,23
 2018,Education,Master,Fiqh & Usul Al Fiqh,8,4
 2018,Education,Master,Quranic Sciences & Exegesis,5,7
-2018,Natural sciences,Doctorate,Biological & Environmental Science,1,1
-2018,Engineering,Doctorate,Chemical Engineering,1,0
+2018,"Professional, scientific and technical activities",Doctorate,Biological & Environmental Science,1,1
+2018,"Professional, scientific and technical activities",Doctorate,Chemical Engineering,1,0
 2018,Information and communication,Doctorate,Computer Science,1,0
-2018,Engineering,Doctorate,Electrical Engineering,1,1
-2018,Engineering,Doctorate,Engineering Management,2,1
+2018,"Electricity, gas, steam and air conditioning supply",Doctorate,Electrical Engineering,1,1
+2018,"Professional, scientific and technical activities",Doctorate,Engineering Management,2,1
 2019,Education,Pre-University Diploma,Community College ,241,418
 2019,Public administration and defence; compulsory social security,Pre-University Diploma,Ras Laffan Emergency & Safety College ,11,1
 2019,Education,Bachelors, B.A In Education,9,322
 2019,"Arts, entertainment and recreation",Bachelors,B.A In Art & science,149,800
 2019,Education,Bachelors,B.A In Sharia & Islamic Studies,30,89
-2019,Engineering,Bachelors,B.Sc. In Engineering,248,206
+2019,"Professional, scientific and technical activities",Bachelors,B.Sc. In Engineering,248,206
 2019,Financial and insurance activities,Bachelors,"B.Sc. In Admin, & Economics",213,620
 2019,Public administration and defence; compulsory social security,Bachelors,B.Sc. In Law,47,169
 2019,Human health and social work activities,Bachelors,B.Sc Health Sciences,0,98
@@ -238,11 +238,11 @@ a",35,98
 2019,Education,Diploma,Primary Education,0,11
 2019,Education,Diploma,Secondary Education,0,1
 2019,Education,Diploma,Special Education,7,7
-2019,Natural sciences,Master,Applied Statistics,1,2
+2019,"Professional, scientific and technical activities",Master,Applied Statistics,1,2
 2019,Education,Master,Arabic Language & Literature,2,9
-2019,Natural sciences,Master,Environmental Sciences,2,5
+2019,"Professional, scientific and technical activities",Master,Environmental Sciences,2,5
 2019,Public administration and defence; compulsory social security,Master,Gulf Studies,1,6
-2019,Natural sciences,Master,Material Sciences & Technology,2,3
+2019,"Professional, scientific and technical activities",Master,Material Sciences & Technology,2,3
 2019,Financial and insurance activities,Master,Accounting,3,3
 2019,Financial and insurance activities,Master,Business Administration,7,4
 2019,Financial and insurance activities,Master,Marketing,1,10
@@ -251,13 +251,13 @@ a",35,98
 2019,Education,Master,Master of Special Education,0,5
 2019,Education,Master,Special Education,1,1
 2019,Education,Master,Civil Engineering,12,0
-2019,Engineering,Master,Computing,2,5
-2019,Information and communication,Master,Electrical Engineering,2,5
-2019,Engineering,Master,Engineering Management,14,6
-2019,Engineering,Master,Environmental Engineering,3,9
-2019,Engineering,Master,Mechanical Engineering,9,1
-2019,Engineering,Master,Urban Planning and Design,1,5
-2019,Architecture and urban planning,Master,Biomedical Sciences,0,8
+2019,Information and communication,Master,Computing,2,5
+2019,"Electricity, gas, steam and air conditioning supply",Master,Electrical Engineering,2,5
+2019,"Professional, scientific and technical activities",Master,Engineering Management,14,6
+2019,"Water supply; sewerage, waste management and remediation activities",Master,Environmental Engineering,3,9
+2019,Manufacturing,Master,Mechanical Engineering,9,1
+2019,"Professional, scientific and technical activities",Master,Urban Planning and Design,1,5
+2019,"Professional, scientific and technical activities",Master,Biomedical Sciences,0,8
 2019,Human health and social work activities,Master,Public Health,4,5
 2019,Human health and social work activities,Master,Private Law,7,4
 2019,Public administration and defence; compulsory social security,Master,Public Law,7,4
@@ -266,17 +266,17 @@ a",35,98
 2019,Education,Master,Quranic Sciences & Exegesis,3,2
 2019,Education,Master,Doctorate,,
 2019,Education,Master,Biological & Environmental Science,0,2
-2019,Engineering,Doctorate,Civil Engineering,1,0
-2019,Engineering,Doctorate,Computer Engineering,1,0
-2019,Engineering,Doctorate,Electrical Engineering,3,2
-2019,Engineering,Doctorate,Engineering Management,0,1
-2019,Engineering,Doctorate,Material Sci and Engin,0,1
+2019,Construction,Doctorate,Civil Engineering,1,0
+2019,Information and communication,Doctorate,Computer Engineering,1,0
+2019,"Electricity, gas, steam and air conditioning supply",Doctorate,Electrical Engineering,3,2
+2019,"Professional, scientific and technical activities",Doctorate,Engineering Management,0,1
+2019,"Professional, scientific and technical activities",Doctorate,Material Sci and Engin,0,1
 2020,Education,Pre-University Diploma,Community College ,219,433
 2020,Public administration and defence; compulsory social security,Pre-University Diploma,Ras Laffan Emergency & Safety College ,19,0
 2020,Education,Bachelors, B.A In Education,7,324
 2020,"Arts, entertainment and recreation",Bachelors,B.A In Art & science,163,792
 2020,Education,Bachelors,B.A In Sharia & Islamic Studies,20,61
-2020,Engineering,Bachelors,B.Sc. In Engineering,222,205
+2020,"Professional, scientific and technical activities",Bachelors,B.Sc. In Engineering,222,205
 2020,Financial and insurance activities,Bachelors,"B.Sc. In Admin, & Economics",229,582
 2020,Public administration and defence; compulsory social security,Bachelors,B.Sc. In Law,62,177
 2020,Human health and social work activities,Bachelors,B.Sc Health Sciences,0,91
@@ -284,11 +284,11 @@ a",35,98
 2020,Public administration and defence; compulsory social security,Bachelors,B.Sc.  Ras Laffan Emergency and Safety College,13,0
 2020,Education,Diploma,Primary Education,0,30
 2020,Education,Diploma,Special Education,7,5
-2020,Business Administration,Diploma,Jossor Institute / Higher Diploma Bocconi College,37,40
-2020,Natural sciences,Master,Applied Statistics,2,4
+2020,Financial and insurance activities,Diploma,Jossor Institute / Higher Diploma Bocconi College,37,40
+2020,"Professional, scientific and technical activities",Master,Applied Statistics,2,4
 2020,Education,Master,Arabic Language & Literature,1,4
-2020,Natural sciences,Master,Environmental Sciences,1,7
-2020,Natural sciences,Master,Material Sci and Technology,5,5
+2020,"Professional, scientific and technical activities",Master,Environmental Sciences,1,7
+2020,"Professional, scientific and technical activities",Master,Material Sci and Technology,5,5
 2020,Financial and insurance activities,Master,Accounting,4,12
 2020,Financial and insurance activities,Master,Business Administration,8,21
 2020,Financial and insurance activities,Master,Marketing,4,16
@@ -296,13 +296,13 @@ a",35,98
 2020,Education,Master,Education Leadership,0,8
 2020,Education,Master,Master of Special Education,0,1
 2020,Education,Master,Special Education,3,6
-2020,Engineering,Master,Civil Engineering,9,1
+2020,Construction,Master,Civil Engineering,9,1
 2020,Information and communication,Master,Computing,3,7
-2020,Engineering,Master,Electrical Engineering,2,2
-2020,Engineering,Master,Engineering Management,10,9
-2020,Engineering,Master,Environmental Engineering,2,1
-2020,Engineering,Master,Mechanical Engineering,6,0
-2020,Architecture and urban planning,Master,Urban Planning and Design,0,2
+2020,"Electricity, gas, steam and air conditioning supply",Master,Electrical Engineering,2,2
+2020,"Professional, scientific and technical activities",Master,Engineering Management,10,9
+2020,"Water supply; sewerage, waste management and remediation activities",Master,Environmental Engineering,2,1
+2020,Manufacturing,Master,Mechanical Engineering,6,0
+2020,"Professional, scientific and technical activities",Master,Urban Planning and Design,0,2
 2020,Human health and social work activities,Master,Biomedical Sciences,1,8
 2020,Human health and social work activities,Master,Public Health,0,10
 2020,Public administration and defence; compulsory social security,Master,Private Law,2,9
@@ -311,14 +311,14 @@ a",35,98
 2020,Education,Master,Fiqh and Usul Al Fiqh,4,7
 2020,Education,Master,Quranic Sciences and Exegesis,11,6
 2020,Public administration and defence; compulsory social security,Master,Religions & Dialog of Civiliz.,1,0
-2020,Business Administration,Master,Qatar Leadership Center / Executive Master McDonough School of Business,15,10
-2020,Natural sciences,Doctorate,Biological & Environmental Sci,2,3
+2020,Administrative and support service activities,Master,Qatar Leadership Center / Executive Master McDonough School of Business,15,10
+2020,"Professional, scientific and technical activities",Doctorate,Biological & Environmental Sci,2,3
 2020,Public administration and defence; compulsory social security,Doctorate,Gulf Studies,0,1
-2020,Engineering,Doctorate,Civil Engineering,1,1
-2020,Engineering,Doctorate,Electrical Engineering,1,0
-2020,Engineering,Doctorate,Engineering Management,1,0
-2020,Natural sciences,Doctorate,Material Sci and Engin,1,1
-2020,Engineering,Doctorate,Mechanical Engineering,1,0
+2020,Construction,Doctorate,Civil Engineering,1,1
+2020,"Electricity, gas, steam and air conditioning supply",Doctorate,Electrical Engineering,1,0
+2020,"Professional, scientific and technical activities",Doctorate,Engineering Management,1,0
+2020,"Professional, scientific and technical activities",Doctorate,Material Sci and Engin,1,1
+2020,Manufacturing,Doctorate,Mechanical Engineering,1,0
 2021,Education,Pre-University Diploma,Community College,235,419
 2021,Public administration and defence; compulsory social security,Pre-University Diploma,Ras Laffan Emergency & Safety College,0,0
 2021,Transportation and storage,Pre-University Diploma,Qatar Aeronautical Academy,27,5
@@ -327,7 +327,7 @@ Technology",102,39
 2021,Education,Bachelors,B.A In Education,6,259
 2021,"Arts, entertainment and recreation",Bachelors,B.A In Art & science,117,819
 2021,Education,Bachelors,B.A In Sharia & Islamic Studies,5,66
-2021,Engineering,Bachelors,B.Sc. In Engineering,29,128
+2021,"Professional, scientific and technical activities",Bachelors,B.Sc. In Engineering,29,128
 2021,Financial and insurance activities,Bachelors,"B.Sc. In Admin, & Economics",127,427
 2021,Public administration and defence; compulsory social security,Bachelors,B.Sc. In Law,78,192
 2021,Human health and social work activities,Bachelors,B.Sc Health Sciences,0,14
@@ -338,33 +338,33 @@ Technology",102,39
 2021,Human health and social work activities,Bachelors,B.Sc - Medical Radiography University of Doha for Science and Technology,1,2
 2021,Public administration and defence; compulsory social security,Bachelors,"B.SC - of Arts in Public Administration
 Community College",65,100
-2021,Engineering,Bachelors,"Bachelor of Science in Electrical Engineering Technology
+2021,"Electricity, gas, steam and air conditioning supply",Bachelors,"Bachelor of Science in Electrical Engineering Technology
 Community College",0,7
 2021,Information and communication,Bachelors,Bachelor of Science in Information Technology - Cyber and Network Security Community College,5,17
 2021,Education,Diploma,Primary Education,0,9
 2021,Education,Diploma,Special Education,0,12
 2021,Education,Diploma,Secondary Education,0,1
-2021,Business Administration,Diploma,"Jossor Institute / Higher Diploma Bocconi
+2021,Administrative and support service activities,Diploma,"Jossor Institute / Higher Diploma Bocconi
 College",15,5
 2021,Education,Master,"Curriculum,Instruc. & Assessm.",1,5
 2021,Education,Master,Education Leadership,0,5
 2021,Education,Master,Special Education,0,2
-2021,Natural sciences,Master,Applied Statistics,0,0
+2021,"Professional, scientific and technical activities",Master,Applied Statistics,0,0
 2021,Education,Master,Arabic Language & Literature,0,3
 2021,Public administration and defence; compulsory social security,Master,Defense studies,20,0
-2021,Natural sciences,Master,Environmental Sciences,0,0
+2021,"Professional, scientific and technical activities",Master,Environmental Sciences,0,0
 2021,Public administration and defence; compulsory social security,Master,Gulf Studies,1,3
-2021,Natural sciences,Master,Material Sci and Technology,0,0
+2021,"Professional, scientific and technical activities",Master,Material Sci and Technology,0,0
 2021,Financial and insurance activities,Master,Accounting,0,2
 2021,Financial and insurance activities,Master,Business Administration,1,1
 2021,Financial and insurance activities,Master,Marketing,1,5
-2021,Engineering,Master,Civil Engineering,0,0
+2021,Construction,Master,Civil Engineering,0,0
 2021,Information and communication,Master,Computing,,3
-2021,Engineering,Master,Electrical Engineering,1,0
-2021,Engineering,Master,Engineering Management,5,8
-2021,Engineering,Master,Environmental Engineering,0,0
-2021,Engineering,Master,Mechanical Engineering,0,0
-2021,Architecture and urban planning,Master,Urban Planning and Design,0,1
+2021,"Electricity, gas, steam and air conditioning supply",Master,Electrical Engineering,1,0
+2021,"Professional, scientific and technical activities",Master,Engineering Management,5,8
+2021,"Water supply; sewerage, waste management and remediation activities",Master,Environmental Engineering,0,0
+2021,Manufacturing,Master,Mechanical Engineering,0,0
+2021,"Professional, scientific and technical activities",Master,Urban Planning and Design,0,1
 2021,Human health and social work activities,Master,Biomedical Sciences,0,5
 2021,Human health and social work activities,Master,Genetic Counselling,0,0
 2021,Human health and social work activities,Master,Public Health,0,0
@@ -374,13 +374,13 @@ College",15,5
 2021,Education,Master,Fiqh and Usul Al Fiqh,4,2
 2021,Education,Master,Quranic Sciences and Exegesis,1,3
 2021,Public administration and defence; compulsory social security,Master,Religions & Dialog of Civiliz.,2,3
-2021,Natural sciences,Doctorate,Biological & Environmental Sci,0,2
+2021,"Professional, scientific and technical activities",Doctorate,Biological & Environmental Sci,0,2
 2021,Public administration and defence; compulsory social security,Doctorate,Gulf Studies,0,0
-2021,Business Administration,Doctorate,Business Administration,2,1
-2021,Engineering,Doctorate,Civil Engineering,0,0
-2021,Engineering,Doctorate,Electrical Engineering,0,0
-2021,Engineering,Doctorate,Environmental Engineering,0,0
-2021,Engineering,Doctorate,Mechanical Engineering,1,0
+2021,Financial and insurance activities,Doctorate,Business Administration,2,1
+2021,Construction,Doctorate,Civil Engineering,0,0
+2021,"Electricity, gas, steam and air conditioning supply",Doctorate,Electrical Engineering,0,0
+2021,"Water supply; sewerage, waste management and remediation activities",Doctorate,Environmental Engineering,0,0
+2021,Manufacturing,Doctorate,Mechanical Engineering,1,0
 2021,Human health and social work activities,Doctorate,Pharmaceutical Sciences,0,0
 2022,Education,Pre-University Diploma,Community College ,196,453
 2022,Public administration and defence; compulsory social security,Pre-University Diploma,Ras Laffan Emergency & Safety College ,15,0
@@ -389,7 +389,7 @@ College",15,5
 2022,Education,Bachelors,B.A in Education,26,456
 2022,"Arts, entertainment and recreation",Bachelors,B.A in Art & science,150,999
 2022,Education,Bachelors,B.A in Sharia & Islamic Studies,15,74
-2022,Engineering,Bachelors,B.Sc. in Engineering,159,191
+2022,"Professional, scientific and technical activities",Bachelors,B.Sc. in Engineering,159,191
 2022,Financial and insurance activities,Bachelors,B.Sc. in Administration & Economics,197,705
 2022,Public administration and defence; compulsory social security,Bachelors,B.Sc. in Law,74,273
 2022,Human health and social work activities,Bachelors,B.Sc in Health Sciences,0,74
@@ -401,27 +401,27 @@ College",15,5
 2022,Financial and insurance activities,Bachelors,Bachelor of Applied Business Administration in Digital Marketing,12,15
 2022,Financial and insurance activities,Bachelors,Bachelor of Applied Business Administration in Human Resources Management,16,26
 2022,Information and communication,Bachelors,Bachelor of Applied Science in Information Technology,6,4
-2022,Engineering,Bachelors,Bachelor of Science in Applied Chemical and Processing Engineering,10,1
-2022,Engineering,Bachelors,Bachelor of Science in Applied Maintenance Engineering Technology,36,2
-2022,Engineering,Bachelors,Bachelor of Science in Applied Telecommunications and Network Engineering,4,1
+2022,"Professional, scientific and technical activities",Bachelors,Bachelor of Science in Applied Chemical and Processing Engineering,10,1
+2022,"Professional, scientific and technical activities",Bachelors,Bachelor of Science in Applied Maintenance Engineering Technology,36,2
+2022,"Professional, scientific and technical activities",Bachelors,Bachelor of Science in Applied Telecommunications and Network Engineering,4,1
 2022,Human health and social work activities,Bachelors,Bachelor of Applied Science in Dental Hygiene,1,9
 2022,Human health and social work activities,Bachelors,Bachelor of Applied Science in Environmental Health,1,10
 2022,Human health and social work activities,Bachelors,Bachelor of Applied Science in Medical Radiography,1,9
 2022,Human health and social work activities,Bachelors,Bachelor of Applied Science in Respiratory Therapy,0,9
 2022,Public administration and defence; compulsory social security,Bachelors,BA in Public Administration ,49,99
 2022,Information and communication,Bachelors,BS in Cyber & Network Security ,17,19
-2022,Engineering,Bachelors,BS in Electrical Engineering Technology,7,4
+2022,"Electricity, gas, steam and air conditioning supply",Bachelors,BS in Electrical Engineering Technology,7,4
 2022,Transportation and storage,Bachelors,Bachelor of Logistics and Supply Chain Management,33,53
-2022,Engineering,Bachelors,BS in Mechanical Engineering Technology,6,5
+2022,Manufacturing,Bachelors,BS in Mechanical Engineering Technology,6,5
 2022,Education,Diploma,Primary Education,2,8
 2022,Education,Diploma,Secondary Education,7,4
 2022,Education,Diploma,Special Education,16,8
-2022,Natural sciences,Master,Applied Statistics,2,8
+2022,"Professional, scientific and technical activities",Master,Applied Statistics,2,8
 2022,Education,Master,Arabic Language & Literature,2,9
 2022,Public administration and defence; compulsory social security,Master,Defense studies,8,0
-2022,Natural sciences,Master,Environmental Sciences,1,9
+2022,"Professional, scientific and technical activities",Master,Environmental Sciences,1,9
 2022,Public administration and defence; compulsory social security,Master,Gulf Studies,3,3
-2022,Natural sciences,Master,Materials Science and Technology,3,5
+2022,"Professional, scientific and technical activities",Master,Materials Science and Technology,3,5
 2022,Financial and insurance activities,Master,Accounting,0,7
 2022,Financial and insurance activities,Master,Business Administration,6,5
 2022,Financial and insurance activities,Master,Finance,3,0
@@ -430,11 +430,11 @@ College",15,5
 2022,Education,Master,Education Leadership,1,11
 2022,Education,Master,Special Education,0,12
 2022,Information and communication,Master,Computing,8,2
-2022,Engineering,Master,Electrical Engineering,4,2
-2022,Engineering,Master,Engineering Management,12,9
-2022,Engineering,Master,Environmental Engineering,0,4
-2022,Engineering,Master,Mechanical Engineering,6,0
-2022,Architecture and urban planning,Master,Urban Planning and Design,1,3
+2022,"Electricity, gas, steam and air conditioning supply",Master,Electrical Engineering,4,2
+2022,"Professional, scientific and technical activities",Master,Engineering Management,12,9
+2022,"Water supply; sewerage, waste management and remediation activities",Master,Environmental Engineering,0,4
+2022,Manufacturing,Master,Mechanical Engineering,6,0
+2022,"Professional, scientific and technical activities",Master,Urban Planning and Design,1,3
 2022,Human health and social work activities,Master,Biomedical Sciences,0,4
 2022,Human health and social work activities,Master,Genetic Counselling,0,3
 2022,Human health and social work activities,Master,Public Health,1,10
@@ -445,16 +445,16 @@ College",15,5
 2022,Education,Master,Quranic Sciences and Exegesis,2,6
 2022,Public administration and defence; compulsory social security,Master,Religions and Dialogue of Civilizations,3,5
 2022,Human health and social work activities,Master,Master of Science in Diabetes Care and Patient Education,0,2
-2022,Natural sciences,Doctorate,Biological and Environmental Sciences,2,2
+2022,"Professional, scientific and technical activities",Doctorate,Biological and Environmental Sciences,2,2
 2022,Public administration and defence; compulsory social security,Doctorate,Gulf Studies,0,1
-2022,Engineering,Doctorate,Chemical Engineering,0,1
-2022,Engineering,Doctorate,Civil Engineering,1,0
+2022,"Professional, scientific and technical activities",Doctorate,Chemical Engineering,0,1
+2022,Construction,Doctorate,Civil Engineering,1,0
 2022,Information and communication,Doctorate,Computer Science,0,6
-2022,Engineering,Doctorate,Electrical Engineering,0,1
-2022,Engineering,Doctorate,Engineering Management,4,1
-2022,Engineering,Doctorate,Industrial and Systems Eng.,1,0
-2022,Natural sciences,Doctorate,Materials Sci and Engin,1,0
-2022,Engineering,Doctorate,Mechanical Engineering,2,0
+2022,"Electricity, gas, steam and air conditioning supply",Doctorate,Electrical Engineering,0,1
+2022,"Professional, scientific and technical activities",Doctorate,Engineering Management,4,1
+2022,"Professional, scientific and technical activities",Doctorate,Industrial and Systems Eng.,1,0
+2022,"Professional, scientific and technical activities",Doctorate,Materials Sci and Engin,1,0
+2022,Manufacturing,Doctorate,Mechanical Engineering,2,0
 2022,Human health and social work activities,Doctorate,Medical Sciences,0,1
 2022,Education,Doctorate,Fiqh and Usul Al Fiqh,1,0
 2023,Education,Pre-University Diploma,Community College ,196,393
@@ -464,25 +464,25 @@ College",15,5
 2023,Education,Bachelors,B.A in Education,33,467
 2023,"Arts, entertainment and recreation",Bachelors,B.A in Art & science,130,1012
 2023,Education,Bachelors,B.A in Sharia & Islamic Studies,11,85
-2023,Engineering,Bachelors,B.Sc. in Engineering,197,251
+2023,"Professional, scientific and technical activities",Bachelors,B.Sc. in Engineering,197,251
 2023,Financial and insurance activities,Bachelors,B.Sc. in Administration & Economics,183,672
 2023,Public administration and defence; compulsory social security,Bachelors,B.Sc. in Law,77,295
 2023,Human health and social work activities,Bachelors,B.Sc in Health Sciences,0,55
 2023,Human health and social work activities,Bachelors,B.Sc. in Pharmacy,0,31
 2023,Human health and social work activities,Bachelors,B.Sc.in Medicine,13,40
 2023,Public administration and defence; compulsory social security,Bachelors,B.Sc. From Ras Laffan Emergency and Safety College,37,11
-2023,Engineering,Bachelors,Bachelor of Applied Science in Maintenance Engineering Technology,1,0
+2023,"Professional, scientific and technical activities",Bachelors,Bachelor of Applied Science in Maintenance Engineering Technology,1,0
 2023,Financial and insurance activities,Bachelors,Bachelor of Business Administration in Applied Accounting,25,37
 2023,Financial and insurance activities,Bachelors,Bachelor of Business Administration in Banking and Financial Technology,6,9
 2023,Financial and insurance activities,Bachelors,Bachelor of Business Administration in Digital Marketing,27,31
 2023,Financial and insurance activities,Bachelors,Bachelor of Business Administration in Human Resource Management,14,39
-2023,Engineering,Bachelors,Bachelor of Science in Chemical Engineering - Processing Engineering,39,34
+2023,"Professional, scientific and technical activities",Bachelors,Bachelor of Science in Chemical Engineering - Processing Engineering,39,34
 2023,Human health and social work activities,Bachelors,Bachelor of Science in Dental Hygiene,1,17
-2023,Engineering,Bachelors,Bachelor of Science in Electrical Engineering - Telecommunications and Network Engineering,29,20
+2023,"Electricity, gas, steam and air conditioning supply",Bachelors,Bachelor of Science in Electrical Engineering - Telecommunications and Network Engineering,29,20
 2023,Human health and social work activities,Bachelors,Bachelor of Science in Environmental Health,2,16
 2023,Information and communication,Bachelors,Bachelor of Science in Information Systems,8,14
 2023,Information and communication,Bachelors,Bachelor of Science in Information Technology,18,10
-2023,Engineering,Bachelors,Bachelor of Science in Mechanical Engineering - Maintenance Engineering,40,3
+2023,Manufacturing,Bachelors,Bachelor of Science in Mechanical Engineering - Maintenance Engineering,40,3
 2023,Human health and social work activities,Bachelors,Bachelor of Science in Medical Radiography,4,43
 2023,Human health and social work activities,Bachelors,"Bachelor of Science in Occupational Health, Safety, and Environment",5,4
 2023,Human health and social work activities,Bachelors,Bachelor of Science in Paramedicine,6,5
@@ -490,36 +490,36 @@ College",15,5
 2023,Human health and social work activities,Bachelors,Bachelor of Science in Respiratory Therapy,5,30
 2023,Public administration and defence; compulsory social security,Bachelors,Bachelor of Arts in Public Administration,29,60
 2023,Information and communication,Bachelors,Bachelor of Science in Information Technology - Cyber and Network Security Concentration,19,15
-2023,Engineering,Bachelors,Bachelor of Science in Electrical Engineering Technology,0,8
+2023,"Professional, scientific and technical activities",Bachelors,Bachelor of Science in Electrical Engineering Technology,0,8
 2023,Transportation and storage,Bachelors,Bachelor of Science in Logistics and Supply Chain Management,41,27
-2023,Engineering,Bachelors,Bachelor of Science in Mechanical Engineering Technology,12,3
+2023,Manufacturing,Bachelors,Bachelor of Science in Mechanical Engineering Technology,12,3
 2023,Financial and insurance activities,Bachelors,Bachelor of Human Resources Management ,4,23
-2023,Business Administration,Bachelors,Bachelor of Project Management,10,19
+2023,Financial and insurance activities,Bachelors,Bachelor of Project Management,10,19
 2023,Education,Diploma,Diploma in Primary Education,0,1
 2023,Education,Diploma,Early Childhood Education,0,6
 2023,Education,Diploma,Primary Education,3,7
 2023,Education,Diploma,Secondary Education,6,1
 2023,Education,Diploma,Special Education,8,5
-2023,Natural sciences,Master,Applied Statistics,1,4
+2023,"Professional, scientific and technical activities",Master,Applied Statistics,1,4
 2023,Education,Master,Arabic Language & Literature,0,5
-2023,Natural sciences,Master,Environmental Sciences,0,7
+2023,"Professional, scientific and technical activities",Master,Environmental Sciences,0,7
 2023,Public administration and defence; compulsory social security,Master,Gulf Studies,4,3
-2023,Natural sciences,Master,Material Sci and Technology,1,5
+2023,"Professional, scientific and technical activities",Master,Material Sci and Technology,1,5
 2023,Financial and insurance activities,Master,Accounting,4,6
-2023,Business Administration,Master,Business Administration,9,8
+2023,Financial and insurance activities,Master,Business Administration,9,8
 2023,Financial and insurance activities,Master,Finance,1,5
 2023,Financial and insurance activities,Master,Marketing,0,9
 2023,Education,Master,"Curriculum,Instruc. & Assessm.",0,8
 2023,Education,Master,Educational Leadership,0,6
 2023,Education,Master,Special Education,0,7
-2023,Engineering,Master,Civil Engineering,10,0
+2023,Construction,Master,Civil Engineering,10,0
 2023,Information and communication,Master,Computing,3,7
-2023,Engineering,Master,Electrical Engineering,3,2
-2023,Engineering,Master,Engineering Management,6,11
-2023,Engineering,Master,Environmental Engineering,3,13
-2023,Engineering,Master,Gas and Process Engineering,0,1
-2023,Engineering,Master,Mechanical Engineering,11,1
-2023,Architecture and urban planning,Master,Urban Planning,1,5
+2023,"Electricity, gas, steam and air conditioning supply",Master,Electrical Engineering,3,2
+2023,"Professional, scientific and technical activities",Master,Engineering Management,6,11
+2023,"Water supply; sewerage, waste management and remediation activities",Master,Environmental Engineering,3,13
+2023,"Electricity, gas, steam and air conditioning supply",Master,Gas and Process Engineering,0,1
+2023,Manufacturing,Master,Mechanical Engineering,11,1
+2023,"Professional, scientific and technical activities",Master,Urban Planning,1,5
 2023,Human health and social work activities,Master,Biomedical Sciences,0,8
 2023,Human health and social work activities,Master,Genetic Counselling,0,2
 2023,Human health and social work activities,Master,Human Nutrition,0,4
@@ -530,20 +530,20 @@ College",15,5
 2023,Education,Master,Fiqh and Usul,8,2
 2023,Public administration and defence; compulsory social security,Master,Quranic Sciences and Exegesis,2,9
 2023,Human health and social work activities,Master,Religions and Creed,2,7
-2023,Business Administration,Master,Master of Science in Diabetes Care and Patient Education,0,4
-2023,Business Administration,Master,Master of Science in Human Resource Management,0,8
-2023,Natural sciences,Doctorate,Biological and Environmental Sciences,0,1
+2023,Administrative and support service activities,Master,Master of Science in Diabetes Care and Patient Education,0,4
+2023,Administrative and support service activities,Master,Master of Science in Human Resource Management,0,8
+2023,"Professional, scientific and technical activities",Doctorate,Biological and Environmental Sciences,0,1
 2023,Public administration and defence; compulsory social security,Doctorate,Gulf Studies,1,2
-2023,Business Administration,Doctorate,Business Administration,0,3
-2023,Architecture,Doctorate,Architecture,0,1
-2023,Engineering,Doctorate,Chemical Engineering,1,1
-2023,Engineering,Doctorate,Civil Engineering,3,0
+2023,Financial and insurance activities,Doctorate,Business Administration,0,3
+2023,"Professional, scientific and technical activities",Doctorate,Architecture,0,1
+2023,"Professional, scientific and technical activities",Doctorate,Chemical Engineering,1,1
+2023,Construction,Doctorate,Civil Engineering,3,0
 2023,Information and communication,Doctorate,Computer Engineering,0,1
-2023,Engineering,Doctorate,Computer Science,0,2
-2023,Engineering,Doctorate,Electrical Engineering,1,1
-2023,Engineering,Doctorate,Engineering Management,2,1
-2023,Engineering,Doctorate,Environmental Engineering,0,1
-2023,Architecture and urban planning,Doctorate,Urban Planning,1,0
+2023,Information and communication,Doctorate,Computer Science,0,2
+2023,"Electricity, gas, steam and air conditioning supply",Doctorate,Electrical Engineering,1,1
+2023,"Professional, scientific and technical activities",Doctorate,Engineering Management,2,1
+2023,"Water supply; sewerage, waste management and remediation activities",Doctorate,Environmental Engineering,0,1
+2023,"Professional, scientific and technical activities",Doctorate,Urban Planning,1,0
 2023,Public administration and defence; compulsory social security,Doctorate,Law,2,0
 2023,Human health and social work activities,Doctorate,Medical Sciences,1,1
 2023,Human health and social work activities,Doctorate,Pharmaceutical Sciences,0,1
