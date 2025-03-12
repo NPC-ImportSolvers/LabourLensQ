@@ -1,161 +1,161 @@
 Year,Economic activity,Gender,Economically active population,Monthly average wage,Paid employment workers
-2024-01-01,"Agriculture, forestry and fishing",Female,2.2255885709147636,148.0596128054819,2.3953118199571146
-2025-01-01,"Agriculture, forestry and fishing",Female,8.367448134106496,101.58939843857189,8.93095395455046
-2026-01-01,"Agriculture, forestry and fishing",Female,7.650416515352426,76.80820593151041,8.297740422029548
-2027-01-01,"Agriculture, forestry and fishing",Female,7.969714979809621,51.90797645024922,8.615409801190763
-2024-01-01,Mining and quarrying,Female,5391.416028087498,22665.106770717077,5385.902218556746
-2025-01-01,Mining and quarrying,Female,7248.827173920831,22872.111254882813,7368.587634060391
-2026-01-01,Mining and quarrying,Female,6484.686490327082,23440.119129040777,6637.612893314035
-2027-01-01,Mining and quarrying,Female,6165.666679129165,23823.9905258241,6302.81979319268
-2024-01-01,Manufacturing,Female,2678.26873507698,15729.123224350285,2622.8971875480147
-2025-01-01,Manufacturing,Female,3479.923783905105,15770.190346106705,3468.5129945081258
-2026-01-01,Manufacturing,Female,3273.7727813009387,16115.668026322346,3285.350725296362
-2027-01-01,Manufacturing,Female,3142.9573548686467,16393.6631966478,3160.2966103814733
-2024-01-01,"Electricity, gas, steam and air conditioning supply",Female,2667.4102369259817,22903.440193593553,2662.123677627839
-2025-01-01,"Electricity, gas, steam and air conditioning supply",Female,3362.224735528028,22958.172132966956,3415.506489135349
-2026-01-01,"Electricity, gas, steam and air conditioning supply",Female,3193.7114346509065,23403.363873291015,3264.9857361897343
-2027-01-01,"Electricity, gas, steam and air conditioning supply",Female,3085.4452203623273,23733.852668706153,3160.321184415994
-2024-01-01,"Water supply; sewerage, waste management and remediation activities",Female,471.52401801505704,19146.572284159756,478.6835377055816
-2025-01-01,"Water supply; sewerage, waste management and remediation activities",Female,705.2012047012549,19427.637732481664,731.518746057553
-2026-01-01,"Water supply; sewerage, waste management and remediation activities",Female,636.4836151830258,19822.96340015645,667.6226922024931
-2027-01-01,"Water supply; sewerage, waste management and remediation activities",Female,628.343383249432,20170.731681705398,662.4539943044645
-2024-01-01,Construction,Female,7521.582055378012,14715.75884646046,7410.923949798298
-2025-01-01,Construction,Female,9436.979470742595,14905.884068952288,9461.191352245052
-2026-01-01,Construction,Female,8844.61204235718,15190.1117416195,8936.400160941806
-2027-01-01,Construction,Female,8430.826137409262,15383.443345274634,8535.09578604481
-2024-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,Female,26199.471178399042,9828.868867386798,25913.910458205493
-2025-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,Female,32372.81940756571,9878.382751340283,32489.049542890854
-2026-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,Female,29108.913964857376,10084.035030554947,29511.112455701215
-2027-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,Female,27505.38972006571,10232.692161379444,27946.474196636576
-2024-01-01,Transportation and storage,Female,16341.276511904882,18462.9108869031,16182.252458835239
-2025-01-01,Transportation and storage,Female,19849.512748884048,18584.793265231387,19994.825073474283
-2026-01-01,Transportation and storage,Female,18689.27134263405,19014.301044996613,18977.685774050828
-2027-01-01,Transportation and storage,Female,17692.29377752988,19333.41350404078,18001.16952150237
-2024-01-01,Accommodation and food service activities,Female,19924.316204608785,8306.50280657087,19774.4694384963
-2025-01-01,Accommodation and food service activities,Female,24377.999785337954,8411.947052151427,24580.99235133979
-2026-01-01,Accommodation and food service activities,Female,22283.14020200462,8574.261675664162,22650.678350120783
-2027-01-01,Accommodation and food service activities,Female,21139.982910337952,8795.239117880063,21537.96200515177
-2024-01-01,Information and communication,Female,5414.076124723749,23675.928302898796,5375.446332640139
-2025-01-01,Information and communication,Female,6776.687937874791,24077.055323461416,6840.210737743347
-2026-01-01,Information and communication,Female,6415.719109749791,24772.911375109616,6518.930709252804
-2027-01-01,Information and communication,Female,6102.163439176874,25274.21048309949,6204.955856543511
-2024-01-01,Financial and insurance activities,Female,8390.071816528227,27162.015335618624,8275.512015184968
-2025-01-01,Financial and insurance activities,Female,10418.265748819893,27164.089565479517,10446.381487310833
-2026-01-01,Financial and insurance activities,Female,9802.410631632394,27592.467380670045,9898.7236156867
-2027-01-01,Financial and insurance activities,Female,9330.845449340726,28028.27464432697,9435.158517500065
-2024-01-01,Real estate activities,Female,2011.6338070244785,21832.381578169843,1959.582085235147
-2025-01-01,Real estate activities,Female,2523.2114453708327,21841.658983303772,2507.8353489204437
-2026-01-01,Real estate activities,Female,2439.601349342187,22362.55608283841,2445.6898088948024
-2027-01-01,Real estate activities,Female,2352.525602271874,22686.94570711097,2367.7950012910364
-2024-01-01,"Professional, scientific and technical activities",Female,4681.754956490513,15202.218218794842,4519.475006028728
-2025-01-01,"Professional, scientific and technical activities",Female,5889.1408809696795,15383.869398492308,5805.198519353454
-2026-01-01,"Professional, scientific and technical activities",Female,5561.245744250929,15816.978532266425,5520.068761193804
-2027-01-01,"Professional, scientific and technical activities",Female,5326.518992948846,16049.32287854253,5299.905311627905
-2024-01-01,Administrative and support service activities,Female,23467.318247313655,9610.613345424108,23227.33520870621
-2025-01-01,Administrative and support service activities,Female,27863.334236896986,9469.149246427576,28078.008851690767
-2026-01-01,Administrative and support service activities,Female,25936.00889835532,9475.236158472177,26455.514525925326
-2027-01-01,Administrative and support service activities,Female,24618.22233585532,9615.677810046138,25283.207700159885
-2024-01-01,Public administration and defence; compulsory social security,Female,22682.465290566324,27314.331104138433,22477.0699997841
-2025-01-01,Public administration and defence; compulsory social security,Female,27979.83242598299,27341.08349270568,28094.018098752975
-2026-01-01,Public administration and defence; compulsory social security,Female,25447.633962441323,27974.167194276146,25682.782603971846
-2027-01-01,Public administration and defence; compulsory social security,Female,23775.30487389966,28392.52133445273,23933.677968565717
-2024-01-01,Education,Female,41004.91445616639,24219.851516337494,40509.90631545966
-2025-01-01,Education,Female,50011.62515929139,24345.454635956434,50066.98712350953
-2026-01-01,Education,Female,45102.21687804139,24829.293577631735,45486.58941593439
-2027-01-01,Education,Female,42208.0818780414,25212.672410365514,42520.590145859256
-2024-01-01,Human health and social work activities,Female,36364.104614940086,19943.331135752152,35911.52585832225
-2025-01-01,Human health and social work activities,Female,43114.19656806509,20192.676310910596,43229.122431850694
-2026-01-01,Human health and social work activities,Female,40264.78326077342,20855.554600680603,40710.58814600413
-2027-01-01,Human health and social work activities,Female,37909.14591702342,21236.974656583825,38409.85464140757
-2024-01-01,"Arts, entertainment and recreation",Female,2915.6361647328094,22122.11724265585,2885.1238622320884
-2025-01-01,"Arts, entertainment and recreation",Female,3640.250043313539,22421.787028409995,3676.1195091690242
-2026-01-01,"Arts, entertainment and recreation",Female,3522.4990537302056,23007.73533581792,3584.748212746585
-2027-01-01,"Arts, entertainment and recreation",Female,3366.3814918812473,23451.06712103396,3441.101525699146
-2024-01-01,Other service activities,Female,4811.492295862297,8567.303368729572,4774.217800881502
-2025-01-01,Other service activities,Female,6261.017416305006,8701.669662238919,6323.30109460326
-2026-01-01,Other service activities,Female,5570.515098596672,8756.344030549964,5676.408314106268
-2027-01-01,Other service activities,Female,5420.6294150029225,8865.329347322426,5527.833892984277
-2024-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Female,101492.36792338511,3033.0749626595634,100086.59817269898
-2025-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Female,125393.37677755178,3037.923665005431,124849.93381540144
-2026-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Female,107329.77938171844,3067.1379448030434,107399.69914560388
-2027-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Female,97913.04563171844,3103.054093375693,97158.59728830632
-2024-01-01,"Agriculture, forestry and fishing",Male,34241.50472309251,4462.854012669155,33825.58869280676
-2025-01-01,"Agriculture, forestry and fishing",Male,41812.78266048065,4533.858292566416,41814.368052707054
-2026-01-01,"Agriculture, forestry and fishing",Male,37776.837030160445,4643.9263052243605,38014.52436573234
-2027-01-01,"Agriculture, forestry and fishing",Male,35366.72634775691,4742.577530748017,35504.37013188263
-2024-01-01,Mining and quarrying,Male,44583.40171665513,32661.41794015067,43965.5706413918
-2025-01-01,Mining and quarrying,Male,63150.67937290513,32517.930646075813,62978.657189677935
-2026-01-01,Mining and quarrying,Male,49021.24301873846,33263.41286362006,49300.14608171407
-2027-01-01,Mining and quarrying,Male,43819.13952915512,33720.54741475008,43344.5490362502
-2024-01-01,Manufacturing,Male,112074.47332275673,9597.619370017539,110337.05488170114
-2025-01-01,Manufacturing,Male,140468.52051025673,9641.22250447176,139708.9617969803
-2026-01-01,Manufacturing,Male,117414.1799894234,9844.133910036671,117515.79839975944
-2027-01-01,Manufacturing,Male,106272.05769775674,10011.052037615096,105574.09594003859
-2024-01-01,"Electricity, gas, steam and air conditioning supply",Male,15022.479261916347,25456.071413624042,14991.775614108143
-2025-01-01,"Electricity, gas, steam and air conditioning supply",Male,19357.098988478847,25605.031489531848,19635.49811127041
-2026-01-01,"Electricity, gas, steam and air conditioning supply",Male,17280.211996291346,26134.346016721145,17689.662014682675
-2027-01-01,"Electricity, gas, steam and air conditioning supply",Male,16170.046332228847,26648.55817258251,16556.446035282446
-2024-01-01,"Water supply; sewerage, waste management and remediation activities",Male,6965.811731230404,23238.515397450974,7020.717752236863
-2025-01-01,"Water supply; sewerage, waste management and remediation activities",Male,9273.133957792903,22949.14837200554,9527.929453813287
-2026-01-01,"Water supply; sewerage, waste management and remediation activities",Male,8464.320956490821,23216.08807383012,8817.252971795962
-2027-01-01,"Water supply; sewerage, waste management and remediation activities",Male,7920.966301542903,23421.49248662209,8311.344556184888
-2024-01-01,Construction,Male,626387.3478855882,5982.291394958496,613209.877847244
-2025-01-01,Construction,Male,756402.2319480882,6035.508174905583,746550.6715183394
-2026-01-01,Construction,Male,616260.9590314215,6131.77963775012,612426.8401894348
-2027-01-01,Construction,Male,543690.0680939215,6224.779455373336,534467.3838605303
-2024-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,Male,212801.33086406492,7983.472764668367,207288.7923468157
-2025-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,Male,257963.82419739827,8007.5458538071,253676.82935280196
-2026-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,Male,219900.00732239825,8161.354040128746,217656.14760878822
-2027-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,Male,198845.88211406494,8251.24519741759,195491.04398977445
-2024-01-01,Transportation and storage,Male,100933.97414891762,12080.754713919505,99433.71605579818
-2025-01-01,Transportation and storage,Male,118672.48873225095,12328.22784401407,118522.43668181513
-2026-01-01,Transportation and storage,Male,107392.40591975095,12734.403528629226,108259.03230783207
-2027-01-01,Transportation and storage,Male,99714.89789891761,13030.343337726204,100737.43262134901
-2024-01-01,Accommodation and food service activities,Male,64285.19595470806,6980.6472077287945,63508.3825460001
-2025-01-01,Accommodation and food service activities,Male,77684.18934121175,7041.733837622818,77710.4840433533
-2026-01-01,Accommodation and food service activities,Male,69416.51496729878,7132.743170290577,69965.7574157065
-2027-01-01,Accommodation and food service activities,Male,65073.539916302456,7272.9013478181805,65517.74563180968
-2024-01-01,Information and communication,Male,18014.113902813348,30011.754023586975,17778.341349807837
-2025-01-01,Information and communication,Male,22249.752446394315,30159.367233139346,22276.697356798602
-2026-01-01,Information and communication,Male,20352.860950912782,30951.83099629305,20481.357074726868
-2027-01-01,Information and communication,Male,19230.418283556246,31492.386486766583,19318.936714530133
-2024-01-01,Financial and insurance activities,Male,16574.659956313753,29807.00054089605,16298.067380083994
-2025-01-01,Financial and insurance activities,Male,20368.99607610542,30080.903685551857,20315.27234565042
-2026-01-01,Financial and insurance activities,Male,18785.326870376255,30905.060967643894,18882.854264341848
-2027-01-01,Financial and insurance activities,Male,17714.872378188753,31499.50939707231,17804.085597095775
-2024-01-01,Real estate activities,Male,17132.079026177133,14873.113983926578,16527.00771717819
-2025-01-01,Real estate activities,Male,21212.33706901744,15065.176515714684,20752.628286929455
-2026-01-01,Real estate activities,Male,19438.408731649415,15470.157843839685,19167.631669180722
-2027-01-01,Real estate activities,Male,18325.46469115639,15832.082011519451,18055.025676431986
-2024-01-01,"Professional, scientific and technical activities",Male,29091.048443190688,16441.223626335297,28560.60224429749
-2025-01-01,"Professional, scientific and technical activities",Male,36910.425969232354,16579.3326589779,36778.70662369333
-2026-01-01,"Professional, scientific and technical activities",Male,32156.528807774022,17049.798384337133,32356.34615933918
-2027-01-01,"Professional, scientific and technical activities",Male,29720.87638589902,17439.622077213207,29886.061866860025
-2024-01-01,Administrative and support service activities,Male,125783.97494850919,5494.759359654018,124293.30072154854
-2025-01-01,Administrative and support service activities,Male,147462.5483860092,5563.776503364407,147678.72180800076
-2026-01-01,Administrative and support service activities,Male,133245.16109434253,5752.962523747658,134706.44758195296
-2027-01-01,Administrative and support service activities,Male,124151.47536517587,5893.9247996676695,125747.54054340516
-2024-01-01,Public administration and defence; compulsory social security,Male,84703.85235305814,31936.416677096626,83667.48560353115
-2025-01-01,Public administration and defence; compulsory social security,Male,103796.97881139148,32119.32838289222,103672.29959021068
-2026-01-01,Public administration and defence; compulsory social security,Male,90704.59787389149,32788.23603166853,91193.1448268902
-2027-01-01,Public administration and defence; compulsory social security,Male,82963.80016555815,33201.27415626993,82976.19709481971
-2024-01-01,Education,Male,26392.896883761176,25048.961227529097,25890.320852719975
-2025-01-01,Education,Male,31859.90795146951,25186.932991345464,31719.20246244717
-2026-01-01,Education,Male,29440.689305636177,25533.654249965122,29499.337978424366
-2027-01-01,Education,Male,27524.750269177843,25941.371610481106,27564.561385026558
-2024-01-01,Human health and social work activities,Male,40796.349579650116,23075.728746861052,40117.51896947845
-2025-01-01,Human health and social work activities,Male,48225.32637652512,23186.947553088132,48215.70774499778
-2026-01-01,Human health and social work activities,Male,44613.35663694178,23781.52990114796,45013.19534864211
-2027-01-01,Human health and social work activities,Male,41979.16726194178,24201.227865363922,42477.845061661435
-2024-01-01,"Arts, entertainment and recreation",Male,9558.499708024035,23163.241558140347,9486.907638614228
-2025-01-01,"Arts, entertainment and recreation",Male,12277.029362971953,23015.895417405733,12425.215458028064
-2026-01-01,"Arts, entertainment and recreation",Male,11311.509792659452,23103.398750024913,11564.208824316898
-2027-01-01,"Arts, entertainment and recreation",Male,10580.650274430285,23434.751569874046,10854.959026543233
-2024-01-01,Other service activities,Male,10926.868399013238,11357.469259506537,10875.024313165564
-2025-01-01,Other service activities,Male,13910.519440679906,11359.238783469686,14059.565318502522
-2026-01-01,Other service activities,Male,12704.735899013238,11553.165887999243,12960.274292589478
-2027-01-01,Other service activities,Male,12025.758854742406,11637.77509231256,12279.227407301434
-2024-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Male,65889.1681171504,3042.5618811533404,65123.252150990666
-2025-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Male,81374.41233590042,3041.9979056876045,81279.99136052723
-2026-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Male,70725.11181506708,3068.42957593334,71006.61728881378
-2027-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Male,65270.27530465041,3091.7432038318866,65074.10649835034
+2024-01-01,"Agriculture, forestry and fishing",Female,2,148.0596128054819,2
+2025-01-01,"Agriculture, forestry and fishing",Female,8,101.58939843857188,9
+2026-01-01,"Agriculture, forestry and fishing",Female,8,76.80820593151041,8
+2027-01-01,"Agriculture, forestry and fishing",Female,8,51.90797645024922,9
+2024-01-01,Mining and quarrying,Female,5391,22665.10677071708,5386
+2025-01-01,Mining and quarrying,Female,7249,22872.111254882813,7369
+2026-01-01,Mining and quarrying,Female,6485,23440.119129040777,6638
+2027-01-01,Mining and quarrying,Female,6166,23823.9905258241,6303
+2024-01-01,Manufacturing,Female,2678,15729.123224350284,2623
+2025-01-01,Manufacturing,Female,3480,15770.190346106703,3469
+2026-01-01,Manufacturing,Female,3274,16115.668026322346,3285
+2027-01-01,Manufacturing,Female,3143,16393.6631966478,3160
+2024-01-01,"Electricity, gas, steam and air conditioning supply",Female,2667,22903.440193593557,2662
+2025-01-01,"Electricity, gas, steam and air conditioning supply",Female,3362,22958.17213296696,3416
+2026-01-01,"Electricity, gas, steam and air conditioning supply",Female,3194,23403.36387329101,3265
+2027-01-01,"Electricity, gas, steam and air conditioning supply",Female,3085,23733.852668706157,3160
+2024-01-01,"Water supply; sewerage, waste management and remediation activities",Female,472,19146.57228415976,479
+2025-01-01,"Water supply; sewerage, waste management and remediation activities",Female,705,19427.637732481664,732
+2026-01-01,"Water supply; sewerage, waste management and remediation activities",Female,636,19822.96340015645,668
+2027-01-01,"Water supply; sewerage, waste management and remediation activities",Female,628,20170.7316817054,662
+2024-01-01,Construction,Female,7522,14715.75884646046,7411
+2025-01-01,Construction,Female,9437,14905.884068952288,9461
+2026-01-01,Construction,Female,8845,15190.1117416195,8936
+2027-01-01,Construction,Female,8431,15383.443345274634,8535
+2024-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,Female,26199,9828.868867386798,25914
+2025-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,Female,32373,9878.382751340285,32489
+2026-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,Female,29109,10084.035030554947,29511
+2027-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,Female,27505,10232.692161379444,27946
+2024-01-01,Transportation and storage,Female,16341,18462.9108869031,16182
+2025-01-01,Transportation and storage,Female,19850,18584.793265231387,19995
+2026-01-01,Transportation and storage,Female,18689,19014.301044996613,18978
+2027-01-01,Transportation and storage,Female,17692,19333.41350404078,18001
+2024-01-01,Accommodation and food service activities,Female,19924,8306.50280657087,19774
+2025-01-01,Accommodation and food service activities,Female,24378,8411.947052151427,24581
+2026-01-01,Accommodation and food service activities,Female,22283,8574.261675664162,22651
+2027-01-01,Accommodation and food service activities,Female,21140,8795.239117880063,21538
+2024-01-01,Information and communication,Female,5414,23675.9283028988,5375
+2025-01-01,Information and communication,Female,6777,24077.055323461416,6840
+2026-01-01,Information and communication,Female,6416,24772.911375109616,6519
+2027-01-01,Information and communication,Female,6102,25274.21048309949,6205
+2024-01-01,Financial and insurance activities,Female,8390,27162.015335618624,8276
+2025-01-01,Financial and insurance activities,Female,10418,27164.08956547952,10446
+2026-01-01,Financial and insurance activities,Female,9802,27592.467380670045,9899
+2027-01-01,Financial and insurance activities,Female,9331,28028.27464432697,9435
+2024-01-01,Real estate activities,Female,2012,21832.381578169843,1960
+2025-01-01,Real estate activities,Female,2523,21841.65898330377,2508
+2026-01-01,Real estate activities,Female,2440,22362.55608283841,2446
+2027-01-01,Real estate activities,Female,2353,22686.94570711097,2368
+2024-01-01,"Professional, scientific and technical activities",Female,4682,15202.218218794842,4519
+2025-01-01,"Professional, scientific and technical activities",Female,5889,15383.869398492308,5805
+2026-01-01,"Professional, scientific and technical activities",Female,5561,15816.978532266425,5520
+2027-01-01,"Professional, scientific and technical activities",Female,5327,16049.32287854253,5300
+2024-01-01,Administrative and support service activities,Female,23467,9610.613345424108,23227
+2025-01-01,Administrative and support service activities,Female,27863,9469.149246427576,28078
+2026-01-01,Administrative and support service activities,Female,25936,9475.236158472177,26456
+2027-01-01,Administrative and support service activities,Female,24618,9615.677810046138,25283
+2024-01-01,Public administration and defence; compulsory social security,Female,22682,27314.331104138437,22477
+2025-01-01,Public administration and defence; compulsory social security,Female,27980,27341.08349270568,28094
+2026-01-01,Public administration and defence; compulsory social security,Female,25448,27974.167194276142,25683
+2027-01-01,Public administration and defence; compulsory social security,Female,23775,28392.52133445273,23934
+2024-01-01,Education,Female,41005,24219.85151633749,40510
+2025-01-01,Education,Female,50012,24345.454635956437,50067
+2026-01-01,Education,Female,45102,24829.29357763173,45487
+2027-01-01,Education,Female,42208,25212.672410365514,42521
+2024-01-01,Human health and social work activities,Female,36364,19943.331135752152,35912
+2025-01-01,Human health and social work activities,Female,43114,20192.6763109106,43229
+2026-01-01,Human health and social work activities,Female,40265,20855.554600680603,40711
+2027-01-01,Human health and social work activities,Female,37909,21236.974656583825,38410
+2024-01-01,"Arts, entertainment and recreation",Female,2916,22122.11724265585,2885
+2025-01-01,"Arts, entertainment and recreation",Female,3640,22421.787028409995,3676
+2026-01-01,"Arts, entertainment and recreation",Female,3522,23007.73533581792,3585
+2027-01-01,"Arts, entertainment and recreation",Female,3366,23451.06712103396,3441
+2024-01-01,Other service activities,Female,4811,8567.303368729572,4774
+2025-01-01,Other service activities,Female,6261,8701.669662238919,6323
+2026-01-01,Other service activities,Female,5571,8756.344030549964,5676
+2027-01-01,Other service activities,Female,5421,8865.329347322426,5528
+2024-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Female,101492,3033.0749626595634,100087
+2025-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Female,125393,3037.923665005431,124850
+2026-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Female,107330,3067.1379448030434,107400
+2027-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Female,97913,3103.054093375693,97159
+2024-01-01,"Agriculture, forestry and fishing",Male,34242,4462.854012669155,33826
+2025-01-01,"Agriculture, forestry and fishing",Male,41813,4533.858292566416,41814
+2026-01-01,"Agriculture, forestry and fishing",Male,37777,4643.9263052243605,38015
+2027-01-01,"Agriculture, forestry and fishing",Male,35367,4742.577530748017,35504
+2024-01-01,Mining and quarrying,Male,44583,32661.41794015067,43966
+2025-01-01,Mining and quarrying,Male,63151,32517.930646075813,62979
+2026-01-01,Mining and quarrying,Male,49021,33263.41286362006,49300
+2027-01-01,Mining and quarrying,Male,43819,33720.54741475008,43345
+2024-01-01,Manufacturing,Male,112074,9597.61937001754,110337
+2025-01-01,Manufacturing,Male,140469,9641.22250447176,139709
+2026-01-01,Manufacturing,Male,117414,9844.133910036671,117516
+2027-01-01,Manufacturing,Male,106272,10011.052037615096,105574
+2024-01-01,"Electricity, gas, steam and air conditioning supply",Male,15022,25456.07141362404,14992
+2025-01-01,"Electricity, gas, steam and air conditioning supply",Male,19357,25605.031489531848,19635
+2026-01-01,"Electricity, gas, steam and air conditioning supply",Male,17280,26134.346016721145,17690
+2027-01-01,"Electricity, gas, steam and air conditioning supply",Male,16170,26648.55817258251,16556
+2024-01-01,"Water supply; sewerage, waste management and remediation activities",Male,6966,23238.51539745097,7021
+2025-01-01,"Water supply; sewerage, waste management and remediation activities",Male,9273,22949.14837200554,9528
+2026-01-01,"Water supply; sewerage, waste management and remediation activities",Male,8464,23216.08807383012,8817
+2027-01-01,"Water supply; sewerage, waste management and remediation activities",Male,7921,23421.49248662209,8311
+2024-01-01,Construction,Male,626387,5982.291394958496,613210
+2025-01-01,Construction,Male,756402,6035.508174905583,746551
+2026-01-01,Construction,Male,616261,6131.77963775012,612427
+2027-01-01,Construction,Male,543690,6224.779455373336,534467
+2024-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,Male,212801,7983.472764668367,207289
+2025-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,Male,257964,8007.5458538071,253677
+2026-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,Male,219900,8161.354040128746,217656
+2027-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,Male,198846,8251.24519741759,195491
+2024-01-01,Transportation and storage,Male,100934,12080.754713919505,99434
+2025-01-01,Transportation and storage,Male,118672,12328.22784401407,118522
+2026-01-01,Transportation and storage,Male,107392,12734.403528629226,108259
+2027-01-01,Transportation and storage,Male,99715,13030.343337726204,100737
+2024-01-01,Accommodation and food service activities,Male,64285,6980.6472077287945,63508
+2025-01-01,Accommodation and food service activities,Male,77684,7041.733837622818,77710
+2026-01-01,Accommodation and food service activities,Male,69417,7132.743170290577,69966
+2027-01-01,Accommodation and food service activities,Male,65074,7272.90134781818,65518
+2024-01-01,Information and communication,Male,18014,30011.75402358697,17778
+2025-01-01,Information and communication,Male,22250,30159.367233139343,22277
+2026-01-01,Information and communication,Male,20353,30951.83099629305,20481
+2027-01-01,Information and communication,Male,19230,31492.386486766583,19319
+2024-01-01,Financial and insurance activities,Male,16575,29807.00054089605,16298
+2025-01-01,Financial and insurance activities,Male,20369,30080.903685551857,20315
+2026-01-01,Financial and insurance activities,Male,18785,30905.06096764389,18883
+2027-01-01,Financial and insurance activities,Male,17715,31499.50939707231,17804
+2024-01-01,Real estate activities,Male,17132,14873.113983926578,16527
+2025-01-01,Real estate activities,Male,21212,15065.176515714684,20753
+2026-01-01,Real estate activities,Male,19438,15470.157843839685,19168
+2027-01-01,Real estate activities,Male,18325,15832.082011519453,18055
+2024-01-01,"Professional, scientific and technical activities",Male,29091,16441.223626335297,28561
+2025-01-01,"Professional, scientific and technical activities",Male,36910,16579.3326589779,36779
+2026-01-01,"Professional, scientific and technical activities",Male,32157,17049.798384337133,32356
+2027-01-01,"Professional, scientific and technical activities",Male,29721,17439.622077213207,29886
+2024-01-01,Administrative and support service activities,Male,125784,5494.759359654018,124293
+2025-01-01,Administrative and support service activities,Male,147463,5563.776503364407,147679
+2026-01-01,Administrative and support service activities,Male,133245,5752.962523747658,134706
+2027-01-01,Administrative and support service activities,Male,124151,5893.9247996676695,125748
+2024-01-01,Public administration and defence; compulsory social security,Male,84704,31936.416677096626,83667
+2025-01-01,Public administration and defence; compulsory social security,Male,103797,32119.32838289222,103672
+2026-01-01,Public administration and defence; compulsory social security,Male,90705,32788.23603166853,91193
+2027-01-01,Public administration and defence; compulsory social security,Male,82964,33201.27415626993,82976
+2024-01-01,Education,Male,26393,25048.961227529097,25890
+2025-01-01,Education,Male,31860,25186.932991345464,31719
+2026-01-01,Education,Male,29441,25533.65424996512,29499
+2027-01-01,Education,Male,27525,25941.371610481103,27565
+2024-01-01,Human health and social work activities,Male,40796,23075.72874686105,40118
+2025-01-01,Human health and social work activities,Male,48225,23186.94755308813,48216
+2026-01-01,Human health and social work activities,Male,44613,23781.52990114796,45013
+2027-01-01,Human health and social work activities,Male,41979,24201.22786536392,42478
+2024-01-01,"Arts, entertainment and recreation",Male,9558,23163.241558140347,9487
+2025-01-01,"Arts, entertainment and recreation",Male,12277,23015.895417405733,12425
+2026-01-01,"Arts, entertainment and recreation",Male,11312,23103.398750024917,11564
+2027-01-01,"Arts, entertainment and recreation",Male,10581,23434.751569874046,10855
+2024-01-01,Other service activities,Male,10927,11357.469259506535,10875
+2025-01-01,Other service activities,Male,13911,11359.238783469686,14060
+2026-01-01,Other service activities,Male,12705,11553.165887999245,12960
+2027-01-01,Other service activities,Male,12026,11637.77509231256,12279
+2024-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Male,65889,3042.5618811533404,65123
+2025-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Male,81374,3041.9979056876045,81280
+2026-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Male,70725,3068.42957593334,71007
+2027-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Male,65270,3091.7432038318866,65074

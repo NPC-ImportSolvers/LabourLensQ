@@ -1,0 +1,41 @@
+Year,Economic activity,Gender,Employee,Own Account Worker,Employer
+2023,"Agriculture, forestry and fishing",F,0,0,0
+2023,Mining and quarrying,F,4373,0,0
+2023,Manufacturing,F,2753,0,34
+2023,"Electricity, gas, steam and air conditioning supply",F,3196,0,0
+2023,"Water supply; sewerage, waste management and remediation activities",F,297,0,0
+2023,Construction,F,8489,0,72
+2023,Wholesale and retail trade; repair of motor vehicles and motorcycles,F,27759,0,0
+2023,Transportation and storage,F,21563,0,0
+2023,Accommodation and food service activities,F,22277,0,95
+2023,Information and communication,F,6470,0,0
+2023,Financial and insurance activities,F,10115,0,72
+2023,Real estate activities,F,2902,0,0
+2023,"Professional, scientific and technical activities",F,5288,0,242
+2023,Administrative and support service activities,F,33147,0,31
+2023,Public administration and defence; compulsory social security,F,24287,0,0
+2023,Education,F,45460,0,63
+2023,Human health and social work activities,F,49935,0,31
+2023,"Arts, entertainment and recreation",F,4204,0,0
+2023,Other service activities,F,3911,0,36
+2023,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,F,101069,0,0
+2023,"Agriculture, forestry and fishing",M,37184,0,132
+2023,Mining and quarrying,M,30347,0,0
+2023,Manufacturing,M,104694,15,142
+2023,"Electricity, gas, steam and air conditioning supply",M,13987,0,0
+2023,"Water supply; sewerage, waste management and remediation activities",M,6557,0,0
+2023,Construction,M,659888,255,1939
+2023,Wholesale and retail trade; repair of motor vehicles and motorcycles,M,224256,397,2161
+2023,Transportation and storage,M,128160,70,168
+2023,Accommodation and food service activities,M,73128,0,138
+2023,Information and communication,M,19567,77,32
+2023,Financial and insurance activities,M,18741,16,77
+2023,Real estate activities,M,18251,279,203
+2023,"Professional, scientific and technical activities",M,26906,0,426
+2023,Administrative and support service activities,M,163682,0,215
+2023,Public administration and defence; compulsory social security,M,88928,0,0
+2023,Education,M,31029,106,357
+2023,Human health and social work activities,M,54587,0,337
+2023,"Arts, entertainment and recreation",M,9583,0,167
+2023,Other service activities,M,11005,0,0
+2023,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,M,66195,0,0
