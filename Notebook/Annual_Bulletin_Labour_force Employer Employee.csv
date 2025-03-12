@@ -1,41 +1,121 @@
-Year,Economic activity,Gender,Employee,Own Account Worker,Employer
-2023,"Agriculture, forestry and fishing",F,0,0,0
-2023,Mining and quarrying,F,4373,0,0
-2023,Manufacturing,F,2753,0,34
-2023,"Electricity, gas, steam and air conditioning supply",F,3196,0,0
-2023,"Water supply; sewerage, waste management and remediation activities",F,297,0,0
-2023,Construction,F,8489,0,72
-2023,Wholesale and retail trade; repair of motor vehicles and motorcycles,F,27759,0,0
-2023,Transportation and storage,F,21563,0,0
-2023,Accommodation and food service activities,F,22277,0,95
-2023,Information and communication,F,6470,0,0
-2023,Financial and insurance activities,F,10115,0,72
-2023,Real estate activities,F,2902,0,0
-2023,"Professional, scientific and technical activities",F,5288,0,242
-2023,Administrative and support service activities,F,33147,0,31
-2023,Public administration and defence; compulsory social security,F,24287,0,0
-2023,Education,F,45460,0,63
-2023,Human health and social work activities,F,49935,0,31
-2023,"Arts, entertainment and recreation",F,4204,0,0
-2023,Other service activities,F,3911,0,36
-2023,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,F,101069,0,0
-2023,"Agriculture, forestry and fishing",M,37184,0,132
-2023,Mining and quarrying,M,30347,0,0
-2023,Manufacturing,M,104694,15,142
-2023,"Electricity, gas, steam and air conditioning supply",M,13987,0,0
-2023,"Water supply; sewerage, waste management and remediation activities",M,6557,0,0
-2023,Construction,M,659888,255,1939
-2023,Wholesale and retail trade; repair of motor vehicles and motorcycles,M,224256,397,2161
-2023,Transportation and storage,M,128160,70,168
-2023,Accommodation and food service activities,M,73128,0,138
-2023,Information and communication,M,19567,77,32
-2023,Financial and insurance activities,M,18741,16,77
-2023,Real estate activities,M,18251,279,203
-2023,"Professional, scientific and technical activities",M,26906,0,426
-2023,Administrative and support service activities,M,163682,0,215
-2023,Public administration and defence; compulsory social security,M,88928,0,0
-2023,Education,M,31029,106,357
-2023,Human health and social work activities,M,54587,0,337
-2023,"Arts, entertainment and recreation",M,9583,0,167
-2023,Other service activities,M,11005,0,0
-2023,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,M,66195,0,0
+Year,Economic activity,Gender,Type of Employee,Value
+2023,"Agriculture, forestry and fishing",Female,Employee,0
+2023,Mining and quarrying,Female,Employee,4373
+2023,Manufacturing,Female,Employee,2753
+2023,"Electricity, gas, steam and air conditioning supply",Female,Employee,3196
+2023,"Water supply; sewerage, waste management and remediation activities",Female,Employee,297
+2023,Construction,Female,Employee,8489
+2023,Wholesale and retail trade; repair of motor vehicles and motorcycles,Female,Employee,27759
+2023,Transportation and storage,Female,Employee,21563
+2023,Accommodation and food service activities,Female,Employee,22277
+2023,Information and communication,Female,Employee,6470
+2023,Financial and insurance activities,Female,Employee,10115
+2023,Real estate activities,Female,Employee,2902
+2023,"Professional, scientific and technical activities",Female,Employee,5288
+2023,Administrative and support service activities,Female,Employee,33147
+2023,Public administration and defence; compulsory social security,Female,Employee,24287
+2023,Education,Female,Employee,45460
+2023,Human health and social work activities,Female,Employee,49935
+2023,"Arts, entertainment and recreation",Female,Employee,4204
+2023,Other service activities,Female,Employee,3911
+2023,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Female,Employee,101069
+2023,"Agriculture, forestry and fishing",Male,Employee,37184
+2023,Mining and quarrying,Male,Employee,30347
+2023,Manufacturing,Male,Employee,104694
+2023,"Electricity, gas, steam and air conditioning supply",Male,Employee,13987
+2023,"Water supply; sewerage, waste management and remediation activities",Male,Employee,6557
+2023,Construction,Male,Employee,659888
+2023,Wholesale and retail trade; repair of motor vehicles and motorcycles,Male,Employee,224256
+2023,Transportation and storage,Male,Employee,128160
+2023,Accommodation and food service activities,Male,Employee,73128
+2023,Information and communication,Male,Employee,19567
+2023,Financial and insurance activities,Male,Employee,18741
+2023,Real estate activities,Male,Employee,18251
+2023,"Professional, scientific and technical activities",Male,Employee,26906
+2023,Administrative and support service activities,Male,Employee,163682
+2023,Public administration and defence; compulsory social security,Male,Employee,88928
+2023,Education,Male,Employee,31029
+2023,Human health and social work activities,Male,Employee,54587
+2023,"Arts, entertainment and recreation",Male,Employee,9583
+2023,Other service activities,Male,Employee,11005
+2023,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Male,Employee,66195
+2023,"Agriculture, forestry and fishing",Female,Own Account Worker,0
+2023,Mining and quarrying,Female,Own Account Worker,0
+2023,Manufacturing,Female,Own Account Worker,0
+2023,"Electricity, gas, steam and air conditioning supply",Female,Own Account Worker,0
+2023,"Water supply; sewerage, waste management and remediation activities",Female,Own Account Worker,0
+2023,Construction,Female,Own Account Worker,0
+2023,Wholesale and retail trade; repair of motor vehicles and motorcycles,Female,Own Account Worker,0
+2023,Transportation and storage,Female,Own Account Worker,0
+2023,Accommodation and food service activities,Female,Own Account Worker,0
+2023,Information and communication,Female,Own Account Worker,0
+2023,Financial and insurance activities,Female,Own Account Worker,0
+2023,Real estate activities,Female,Own Account Worker,0
+2023,"Professional, scientific and technical activities",Female,Own Account Worker,0
+2023,Administrative and support service activities,Female,Own Account Worker,0
+2023,Public administration and defence; compulsory social security,Female,Own Account Worker,0
+2023,Education,Female,Own Account Worker,0
+2023,Human health and social work activities,Female,Own Account Worker,0
+2023,"Arts, entertainment and recreation",Female,Own Account Worker,0
+2023,Other service activities,Female,Own Account Worker,0
+2023,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Female,Own Account Worker,0
+2023,"Agriculture, forestry and fishing",Male,Own Account Worker,0
+2023,Mining and quarrying,Male,Own Account Worker,0
+2023,Manufacturing,Male,Own Account Worker,15
+2023,"Electricity, gas, steam and air conditioning supply",Male,Own Account Worker,0
+2023,"Water supply; sewerage, waste management and remediation activities",Male,Own Account Worker,0
+2023,Construction,Male,Own Account Worker,255
+2023,Wholesale and retail trade; repair of motor vehicles and motorcycles,Male,Own Account Worker,397
+2023,Transportation and storage,Male,Own Account Worker,70
+2023,Accommodation and food service activities,Male,Own Account Worker,0
+2023,Information and communication,Male,Own Account Worker,77
+2023,Financial and insurance activities,Male,Own Account Worker,16
+2023,Real estate activities,Male,Own Account Worker,279
+2023,"Professional, scientific and technical activities",Male,Own Account Worker,0
+2023,Administrative and support service activities,Male,Own Account Worker,0
+2023,Public administration and defence; compulsory social security,Male,Own Account Worker,0
+2023,Education,Male,Own Account Worker,106
+2023,Human health and social work activities,Male,Own Account Worker,0
+2023,"Arts, entertainment and recreation",Male,Own Account Worker,0
+2023,Other service activities,Male,Own Account Worker,0
+2023,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Male,Own Account Worker,0
+2023,"Agriculture, forestry and fishing",Female,Employer,0
+2023,Mining and quarrying,Female,Employer,0
+2023,Manufacturing,Female,Employer,34
+2023,"Electricity, gas, steam and air conditioning supply",Female,Employer,0
+2023,"Water supply; sewerage, waste management and remediation activities",Female,Employer,0
+2023,Construction,Female,Employer,72
+2023,Wholesale and retail trade; repair of motor vehicles and motorcycles,Female,Employer,0
+2023,Transportation and storage,Female,Employer,0
+2023,Accommodation and food service activities,Female,Employer,95
+2023,Information and communication,Female,Employer,0
+2023,Financial and insurance activities,Female,Employer,72
+2023,Real estate activities,Female,Employer,0
+2023,"Professional, scientific and technical activities",Female,Employer,242
+2023,Administrative and support service activities,Female,Employer,31
+2023,Public administration and defence; compulsory social security,Female,Employer,0
+2023,Education,Female,Employer,63
+2023,Human health and social work activities,Female,Employer,31
+2023,"Arts, entertainment and recreation",Female,Employer,0
+2023,Other service activities,Female,Employer,36
+2023,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Female,Employer,0
+2023,"Agriculture, forestry and fishing",Male,Employer,132
+2023,Mining and quarrying,Male,Employer,0
+2023,Manufacturing,Male,Employer,142
+2023,"Electricity, gas, steam and air conditioning supply",Male,Employer,0
+2023,"Water supply; sewerage, waste management and remediation activities",Male,Employer,0
+2023,Construction,Male,Employer,1939
+2023,Wholesale and retail trade; repair of motor vehicles and motorcycles,Male,Employer,2161
+2023,Transportation and storage,Male,Employer,168
+2023,Accommodation and food service activities,Male,Employer,138
+2023,Information and communication,Male,Employer,32
+2023,Financial and insurance activities,Male,Employer,77
+2023,Real estate activities,Male,Employer,203
+2023,"Professional, scientific and technical activities",Male,Employer,426
+2023,Administrative and support service activities,Male,Employer,215
+2023,Public administration and defence; compulsory social security,Male,Employer,0
+2023,Education,Male,Employer,357
+2023,Human health and social work activities,Male,Employer,337
+2023,"Arts, entertainment and recreation",Male,Employer,167
+2023,Other service activities,Male,Employer,0
+2023,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Male,Employer,0
