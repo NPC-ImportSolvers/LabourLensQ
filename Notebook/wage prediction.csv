@@ -1,0 +1,161 @@
+sector_and_gender,Year,Predicted Monthly Average Wage
+"Agriculture, forestry and fishing_Female",2024,0.0
+"Agriculture, forestry and fishing_Female",2025,0.0
+"Agriculture, forestry and fishing_Female",2026,0.0
+"Agriculture, forestry and fishing_Female",2027,0.0
+Mining and quarrying_Female,2024,21742.333333333332
+Mining and quarrying_Female,2025,21742.333333333332
+Mining and quarrying_Female,2026,21742.333333333332
+Mining and quarrying_Female,2027,21742.333333333332
+Manufacturing_Female,2024,15996.0
+Manufacturing_Female,2025,15996.0
+Manufacturing_Female,2026,15996.0
+Manufacturing_Female,2027,15996.0
+"Electricity, gas, steam and air conditioning supply_Female",2024,22959.666666666668
+"Electricity, gas, steam and air conditioning supply_Female",2025,22959.666666666668
+"Electricity, gas, steam and air conditioning supply_Female",2026,22959.666666666668
+"Electricity, gas, steam and air conditioning supply_Female",2027,22959.666666666668
+"Water supply; sewerage, waste management and remediation activities_Female",2024,18697.0
+"Water supply; sewerage, waste management and remediation activities_Female",2025,18697.0
+"Water supply; sewerage, waste management and remediation activities_Female",2026,18697.0
+"Water supply; sewerage, waste management and remediation activities_Female",2027,18697.0
+Construction_Female,2024,14488.666666666666
+Construction_Female,2025,14488.666666666666
+Construction_Female,2026,14488.666666666666
+Construction_Female,2027,14488.666666666666
+Wholesale and retail trade; repair of motor vehicles and motorcycles_Female,2024,9943.666666666666
+Wholesale and retail trade; repair of motor vehicles and motorcycles_Female,2025,9943.666666666666
+Wholesale and retail trade; repair of motor vehicles and motorcycles_Female,2026,9943.666666666666
+Wholesale and retail trade; repair of motor vehicles and motorcycles_Female,2027,9943.666666666666
+Transportation and storage_Female,2024,18520.0
+Transportation and storage_Female,2025,18520.0
+Transportation and storage_Female,2026,18520.0
+Transportation and storage_Female,2027,18520.0
+Accommodation and food service activities_Female,2024,7033.666666666667
+Accommodation and food service activities_Female,2025,7033.666666666667
+Accommodation and food service activities_Female,2026,7033.666666666667
+Accommodation and food service activities_Female,2027,7033.666666666667
+Information and communication_Female,2024,23491.0
+Information and communication_Female,2025,23491.0
+Information and communication_Female,2026,23491.0
+Information and communication_Female,2027,23491.0
+Financial and insurance activities_Female,2024,27065.666666666668
+Financial and insurance activities_Female,2025,27065.666666666668
+Financial and insurance activities_Female,2026,27065.666666666668
+Financial and insurance activities_Female,2027,27065.666666666668
+Real estate activities_Female,2024,21419.0
+Real estate activities_Female,2025,21419.0
+Real estate activities_Female,2026,21419.0
+Real estate activities_Female,2027,21419.0
+"Professional, scientific and technical activities_Female",2024,14741.0
+"Professional, scientific and technical activities_Female",2025,14741.0
+"Professional, scientific and technical activities_Female",2026,14741.0
+"Professional, scientific and technical activities_Female",2027,14741.0
+Administrative and support service activities_Female,2024,8256.0
+Administrative and support service activities_Female,2025,8256.0
+Administrative and support service activities_Female,2026,8256.0
+Administrative and support service activities_Female,2027,8256.0
+Public administration and defence; compulsory social security_Female,2024,27420.666666666668
+Public administration and defence; compulsory social security_Female,2025,27420.666666666668
+Public administration and defence; compulsory social security_Female,2026,27420.666666666668
+Public administration and defence; compulsory social security_Female,2027,27420.666666666668
+Education_Female,2024,23784.0
+Education_Female,2025,23784.0
+Education_Female,2026,23784.0
+Education_Female,2027,23784.0
+Human health and social work activities_Female,2024,19594.0
+Human health and social work activities_Female,2025,19594.0
+Human health and social work activities_Female,2026,19594.0
+Human health and social work activities_Female,2027,19594.0
+"Arts, entertainment and recreation_Female",2024,21584.666666666668
+"Arts, entertainment and recreation_Female",2025,21584.666666666668
+"Arts, entertainment and recreation_Female",2026,21584.666666666668
+"Arts, entertainment and recreation_Female",2027,21584.666666666668
+Other service activities_Female,2024,7775.0
+Other service activities_Female,2025,7775.0
+Other service activities_Female,2026,7775.0
+Other service activities_Female,2027,7775.0
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use_Female,2024,3047.6666666666665
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use_Female,2025,3047.6666666666665
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use_Female,2026,3047.6666666666665
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use_Female,2027,3047.6666666666665
+"Agriculture, forestry and fishing_Male",2024,4231.333333333333
+"Agriculture, forestry and fishing_Male",2025,4231.333333333333
+"Agriculture, forestry and fishing_Male",2026,4231.333333333333
+"Agriculture, forestry and fishing_Male",2027,4231.333333333333
+Mining and quarrying_Male,2024,34256.666666666664
+Mining and quarrying_Male,2025,34256.666666666664
+Mining and quarrying_Male,2026,34256.666666666664
+Mining and quarrying_Male,2027,34256.666666666664
+Manufacturing_Male,2024,9728.333333333334
+Manufacturing_Male,2025,9728.333333333334
+Manufacturing_Male,2026,9728.333333333334
+Manufacturing_Male,2027,9728.333333333334
+"Electricity, gas, steam and air conditioning supply_Male",2024,25734.0
+"Electricity, gas, steam and air conditioning supply_Male",2025,25734.0
+"Electricity, gas, steam and air conditioning supply_Male",2026,25734.0
+"Electricity, gas, steam and air conditioning supply_Male",2027,25734.0
+"Water supply; sewerage, waste management and remediation activities_Male",2024,25968.333333333332
+"Water supply; sewerage, waste management and remediation activities_Male",2025,25968.333333333332
+"Water supply; sewerage, waste management and remediation activities_Male",2026,25968.333333333332
+"Water supply; sewerage, waste management and remediation activities_Male",2027,25968.333333333332
+Construction_Male,2024,5801.666666666667
+Construction_Male,2025,5801.666666666667
+Construction_Male,2026,5801.666666666667
+Construction_Male,2027,5801.666666666667
+Wholesale and retail trade; repair of motor vehicles and motorcycles_Male,2024,8303.333333333334
+Wholesale and retail trade; repair of motor vehicles and motorcycles_Male,2025,8303.333333333334
+Wholesale and retail trade; repair of motor vehicles and motorcycles_Male,2026,8303.333333333334
+Wholesale and retail trade; repair of motor vehicles and motorcycles_Male,2027,8303.333333333334
+Transportation and storage_Male,2024,11177.666666666666
+Transportation and storage_Male,2025,11177.666666666666
+Transportation and storage_Male,2026,11177.666666666666
+Transportation and storage_Male,2027,11177.666666666666
+Accommodation and food service activities_Male,2024,6629.0
+Accommodation and food service activities_Male,2025,6629.0
+Accommodation and food service activities_Male,2026,6629.0
+Accommodation and food service activities_Male,2027,6629.0
+Information and communication_Male,2024,30306.0
+Information and communication_Male,2025,30306.0
+Information and communication_Male,2026,30306.0
+Information and communication_Male,2027,30306.0
+Financial and insurance activities_Male,2024,30179.0
+Financial and insurance activities_Male,2025,30179.0
+Financial and insurance activities_Male,2026,30179.0
+Financial and insurance activities_Male,2027,30179.0
+Real estate activities_Male,2024,14390.333333333334
+Real estate activities_Male,2025,14390.333333333334
+Real estate activities_Male,2026,14390.333333333334
+Real estate activities_Male,2027,14390.333333333334
+"Professional, scientific and technical activities_Male",2024,15977.333333333334
+"Professional, scientific and technical activities_Male",2025,15977.333333333334
+"Professional, scientific and technical activities_Male",2026,15977.333333333334
+"Professional, scientific and technical activities_Male",2027,15977.333333333334
+Administrative and support service activities_Male,2024,4694.666666666667
+Administrative and support service activities_Male,2025,4694.666666666667
+Administrative and support service activities_Male,2026,4694.666666666667
+Administrative and support service activities_Male,2027,4694.666666666667
+Public administration and defence; compulsory social security_Male,2024,31695.666666666668
+Public administration and defence; compulsory social security_Male,2025,31695.666666666668
+Public administration and defence; compulsory social security_Male,2026,31695.666666666668
+Public administration and defence; compulsory social security_Male,2027,31695.666666666668
+Education_Male,2024,23972.666666666668
+Education_Male,2025,23972.666666666668
+Education_Male,2026,23972.666666666668
+Education_Male,2027,23972.666666666668
+Human health and social work activities_Male,2024,22677.333333333332
+Human health and social work activities_Male,2025,22677.333333333332
+Human health and social work activities_Male,2026,22677.333333333332
+Human health and social work activities_Male,2027,22677.333333333332
+"Arts, entertainment and recreation_Male",2024,25206.333333333332
+"Arts, entertainment and recreation_Male",2025,25206.333333333332
+"Arts, entertainment and recreation_Male",2026,25206.333333333332
+"Arts, entertainment and recreation_Male",2027,25206.333333333332
+Other service activities_Male,2024,10985.0
+Other service activities_Male,2025,10985.0
+Other service activities_Male,2026,10985.0
+Other service activities_Male,2027,10985.0
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use_Male,2024,3081.3333333333335
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use_Male,2025,3081.3333333333335
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use_Male,2026,3081.3333333333335
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use_Male,2027,3081.3333333333335

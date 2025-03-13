@@ -1,341 +1,341 @@
-Year,Economic activity,Female Salary,Male Salary,Female Paid Workers,Male Paid Workers,Salary gap,Women are paid,Absolute gap
-2011-01-01,Accommodation and food service activities,6602.0,4669.0,2548,27788,-1933.0,more,1933.0
-2011-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2409.0,2403.0,83792,47815,-6.0,more,6.0
-2011-01-01,Administrative and support service activities,7798.0,6640.0,2444,37629,-1158.0,more,1158.0
-2011-01-01,"Agriculture, forestry and fishing",2765.0,3153.0,46,17047,388.0,less,388.0
-2011-01-01,"Arts, entertainment and recreation",13657.0,14089.0,742,3883,432.0,less,432.0
-2011-01-01,Construction,10745.0,4659.0,2836,492783,-6086.0,more,6086.0
-2011-01-01,Education,12958.0,15539.0,16338,10594,2581.0,less,2581.0
-2011-01-01,"Electricity, gas, steam and air conditioning supply",13807.0,18975.0,390,5026,5168.0,less,5168.0
-2011-01-01,Financial and insurance activities,13516.0,17882.0,2689,7845,4366.0,less,4366.0
-2011-01-01,Human health and social work activities,13176.0,16536.0,10530,10547,3360.0,less,3360.0
-2011-01-01,Information and communication,13540.0,16648.0,1873,8051,3108.0,less,3108.0
-2011-01-01,Manufacturing,10217.0,6537.0,600,99841,-3680.0,more,3680.0
-2011-01-01,Mining and quarrying,18237.0,15110.0,2441,79367,-3127.0,more,3127.0
-2011-01-01,Other service activities,10745.0,6129.0,316,4003,-4616.0,more,4616.0
-2011-01-01,"Professional, scientific and technical activities",10562.0,7928.0,1284,22447,-2634.0,more,2634.0
-2011-01-01,Public administration and defence; compulsory social security,14417.0,16386.0,13648,62606,1969.0,less,1969.0
-2011-01-01,Real estate activities,12208.0,10682.0,416,8562,-1526.0,more,1526.0
-2011-01-01,Transportation and storage,8716.0,7389.0,3910,28509,-1327.0,more,1327.0
-2011-01-01,"Water supply; sewerage, waste management and remediation activities",0.0,11529.0,0,1138,11529.0,less,11529.0
-2011-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,7738.0,5329.0,5121,134581,-2409.0,more,2409.0
-2012-01-01,Accommodation and food service activities,8597.0,6025.0,2990,29094,-2572.0,more,2572.0
-2012-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2425.0,2233.0,90361,49543,-192.0,more,192.0
-2012-01-01,Administrative and support service activities,11556.0,5367.0,2298,38936,-6189.0,more,6189.0
-2012-01-01,"Agriculture, forestry and fishing",2955.0,4411.0,55,17959,1456.0,less,1456.0
-2012-01-01,"Arts, entertainment and recreation",19364.0,12131.0,752,6994,-7233.0,more,7233.0
-2012-01-01,Construction,11990.0,3879.0,2911,494056,-8111.0,more,8111.0
-2012-01-01,Education,17268.0,17438.0,18193,11894,170.0,less,170.0
-2012-01-01,"Electricity, gas, steam and air conditioning supply",14824.0,18666.0,479,7186,3842.0,less,3842.0
-2012-01-01,Financial and insurance activities,18049.0,20239.0,3178,8099,2190.0,less,2190.0
-2012-01-01,Human health and social work activities,17131.0,16978.0,11649,11644,-153.0,more,153.0
-2012-01-01,Information and communication,17638.0,18749.0,2783,8634,1111.0,less,1111.0
-2012-01-01,Manufacturing,12585.0,6536.0,659,101852,-6049.0,more,6049.0
-2012-01-01,Mining and quarrying,23838.0,18431.0,3102,79963,-5407.0,more,5407.0
-2012-01-01,Other service activities,8793.0,5934.0,680,4295,-2859.0,more,2859.0
-2012-01-01,"Professional, scientific and technical activities",11752.0,7477.0,1501,23469,-4275.0,more,4275.0
-2012-01-01,Public administration and defence; compulsory social security,19864.0,23597.0,13785,67634,3733.0,less,3733.0
-2012-01-01,Real estate activities,16904.0,13675.0,350,8743,-3229.0,more,3229.0
-2012-01-01,Transportation and storage,14968.0,11412.0,5338,32394,-3556.0,more,3556.0
-2012-01-01,"Water supply; sewerage, waste management and remediation activities",16278.0,13194.0,38,1233,-3084.0,more,3084.0
-2012-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,7752.0,6451.0,5239,161783,-1301.0,more,1301.0
-2013-01-01,Accommodation and food service activities,9270.0,8536.0,3695,35135,-734.0,more,734.0
-2013-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2589.0,2458.0,95631,56381,-131.0,more,131.0
-2013-01-01,Administrative and support service activities,8889.0,7217.0,3894,43895,-1672.0,more,1672.0
-2013-01-01,"Agriculture, forestry and fishing",0.0,5020.0,0,21076,5020.0,less,5020.0
-2013-01-01,"Arts, entertainment and recreation",19199.0,11357.0,1286,7790,-7842.0,more,7842.0
-2013-01-01,Construction,16106.0,4693.0,3308,562864,-11413.0,more,11413.0
-2013-01-01,Education,19840.0,19401.0,26042,13423,-439.0,more,439.0
-2013-01-01,"Electricity, gas, steam and air conditioning supply",18329.0,20550.0,706,8056,2221.0,less,2221.0
-2013-01-01,Financial and insurance activities,18846.0,22212.0,3705,8575,3366.0,less,3366.0
-2013-01-01,Human health and social work activities,17695.0,17561.0,14876,12832,-134.0,more,134.0
-2013-01-01,Information and communication,17974.0,20909.0,3167,9380,2935.0,less,2935.0
-2013-01-01,Manufacturing,14515.0,7479.0,935,118163,-7036.0,more,7036.0
-2013-01-01,Mining and quarrying,23787.0,21789.0,3231,92114,-1998.0,more,1998.0
-2013-01-01,Other service activities,11385.0,7371.0,1105,5826,-4014.0,more,4014.0
-2013-01-01,"Professional, scientific and technical activities",14632.0,9524.0,1772,26274,-5108.0,more,5108.0
-2013-01-01,Public administration and defence; compulsory social security,20697.0,25123.0,15036,80656,4426.0,less,4426.0
-2013-01-01,Real estate activities,17761.0,15044.0,502,9666,-2717.0,more,2717.0
-2013-01-01,Transportation and storage,15162.0,11912.0,6251,38123,-3250.0,more,3250.0
-2013-01-01,"Water supply; sewerage, waste management and remediation activities",15937.0,14891.0,187,2631,-1046.0,more,1046.0
-2013-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,9650.0,7577.0,6826,184765,-2073.0,more,2073.0
-2014-01-01,Accommodation and food service activities,12294.0,8939.0,4002,38296,-3355.0,more,3355.0
-2014-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2807.0,2630.0,97202,56855,-177.0,more,177.0
-2014-01-01,Administrative and support service activities,12016.0,7626.0,4000,44772,-4390.0,more,4390.0
-2014-01-01,"Agriculture, forestry and fishing",0.0,5012.0,0,22980,5012.0,less,5012.0
-2014-01-01,"Arts, entertainment and recreation",21818.0,15187.0,1336,12403,-6631.0,more,6631.0
-2014-01-01,Construction,16414.0,5877.0,4365,629458,-10537.0,more,10537.0
-2014-01-01,Education,19808.0,20989.0,26157,15234,1181.0,less,1181.0
-2014-01-01,"Electricity, gas, steam and air conditioning supply",18467.0,19056.0,883,19635,589.0,less,589.0
-2014-01-01,Financial and insurance activities,20029.0,23363.0,3838,8959,3334.0,less,3334.0
-2014-01-01,Human health and social work activities,17864.0,19489.0,14936,13209,1625.0,less,1625.0
-2014-01-01,Information and communication,19173.0,22356.0,3226,9892,3183.0,less,3183.0
-2014-01-01,Manufacturing,15381.0,7925.0,1773,132265,-7456.0,more,7456.0
-2014-01-01,Mining and quarrying,24829.0,23326.0,5246,94027,-1503.0,more,1503.0
-2014-01-01,Other service activities,11151.0,8379.0,1347,9384,-2772.0,more,2772.0
-2014-01-01,"Professional, scientific and technical activities",16883.0,11367.0,1617,26358,-5516.0,more,5516.0
-2014-01-01,Public administration and defence; compulsory social security,21323.0,25786.0,15592,82335,4463.0,less,4463.0
-2014-01-01,Real estate activities,19407.0,14556.0,603,10875,-4851.0,more,4851.0
-2014-01-01,Transportation and storage,16228.0,12344.0,9122,45020,-3884.0,more,3884.0
-2014-01-01,"Water supply; sewerage, waste management and remediation activities",16950.0,11965.0,549,13147,-4985.0,more,4985.0
-2014-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,10629.0,8328.0,7098,187604,-2301.0,more,2301.0
-2015-01-01,Accommodation and food service activities,12476.0,8691.0,13180,37756,-3785.0,more,3785.0
-2015-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2909.0,2682.0,105177,57199,-227.0,more,227.0
-2015-01-01,Administrative and support service activities,12244.0,7643.0,4085,51580,-4601.0,more,4601.0
-2015-01-01,"Agriculture, forestry and fishing",0.0,5186.0,0,23867,5186.0,less,5186.0
-2015-01-01,"Arts, entertainment and recreation",22153.0,15501.0,1498,13061,-6652.0,more,6652.0
-2015-01-01,Construction,17032.0,5951.0,4514,778682,-11081.0,more,11081.0
-2015-01-01,Education,20199.0,19771.0,34620,15970,-428.0,more,428.0
-2015-01-01,"Electricity, gas, steam and air conditioning supply",20219.0,21422.0,939,18833,1203.0,less,1203.0
-2015-01-01,Financial and insurance activities,20629.0,23465.0,6157,9132,2836.0,less,2836.0
-2015-01-01,Human health and social work activities,18263.0,19635.0,15774,14259,1372.0,less,1372.0
-2015-01-01,Information and communication,19880.0,22424.0,3159,10320,2544.0,less,2544.0
-2015-01-01,Manufacturing,15323.0,9528.0,2261,132611,-5795.0,more,5795.0
-2015-01-01,Mining and quarrying,21613.0,24030.0,7024,94658,2417.0,less,2417.0
-2015-01-01,Other service activities,11331.0,8499.0,3074,10914,-2832.0,more,2832.0
-2015-01-01,"Professional, scientific and technical activities",16973.0,10619.0,1862,26642,-6354.0,more,6354.0
-2015-01-01,Public administration and defence; compulsory social security,22639.0,26144.0,17198,83684,3505.0,less,3505.0
-2015-01-01,Real estate activities,19945.0,13982.0,942,10931,-5963.0,more,5963.0
-2015-01-01,Transportation and storage,16260.0,12494.0,10783,54973,-3766.0,more,3766.0
-2015-01-01,"Water supply; sewerage, waste management and remediation activities",17525.0,13154.0,790,12346,-4371.0,more,4371.0
-2015-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,10380.0,7454.0,25443,224826,-2926.0,more,2926.0
-2016-01-01,Accommodation and food service activities,8513.0,5844.0,17274,55325,-2669.0,more,2669.0
-2016-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2989.0,2787.0,107621,66121,-202.0,more,202.0
-2016-01-01,Administrative and support service activities,8429.0,6636.0,5702,78951,-1793.0,more,1793.0
-2016-01-01,"Agriculture, forestry and fishing",0.0,5088.0,0,24848,5088.0,less,5088.0
-2016-01-01,"Arts, entertainment and recreation",21520.0,18915.0,884,5368,-2605.0,more,2605.0
-2016-01-01,Construction,12278.0,6090.0,6270,839136,-6188.0,more,6188.0
-2016-01-01,Education,23485.0,25044.0,33280,13387,1559.0,less,1559.0
-2016-01-01,"Electricity, gas, steam and air conditioning supply",20523.0,22891.0,1525,15844,2368.0,less,2368.0
-2016-01-01,Financial and insurance activities,22568.0,28626.0,5782,9602,6058.0,less,6058.0
-2016-01-01,Human health and social work activities,19939.0,22116.0,16170,13663,2177.0,less,2177.0
-2016-01-01,Information and communication,22745.0,28472.0,2460,13079,5727.0,less,5727.0
-2016-01-01,Manufacturing,15197.0,8419.0,2119,141666,-6778.0,more,6778.0
-2016-01-01,Mining and quarrying,21653.0,26784.0,6639,93635,5131.0,less,5131.0
-2016-01-01,Other service activities,7758.0,11670.0,4643,11318,3912.0,less,3912.0
-2016-01-01,"Professional, scientific and technical activities",12401.0,17239.0,3333,25268,4838.0,less,4838.0
-2016-01-01,Public administration and defence; compulsory social security,24210.0,29311.0,15425,71800,5101.0,less,5101.0
-2016-01-01,Real estate activities,18883.0,15922.0,744,10839,-2961.0,more,2961.0
-2016-01-01,Transportation and storage,15167.0,14353.0,10492,47917,-814.0,more,814.0
-2016-01-01,"Water supply; sewerage, waste management and remediation activities",17974.0,17353.0,604,8578,-621.0,more,621.0
-2016-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,9270.0,7644.0,27328,224442,-1626.0,more,1626.0
-2017-01-01,Accommodation and food service activities,8883.0,5659.0,18220,55567,-3224.0,more,3224.0
-2017-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3014.0,2809.0,108942,63464,-205.0,more,205.0
-2017-01-01,Administrative and support service activities,8116.0,6845.0,6922,80512,-1271.0,more,1271.0
-2017-01-01,"Agriculture, forestry and fishing",0.0,5250.0,0,25431,5250.0,less,5250.0
-2017-01-01,"Arts, entertainment and recreation",21604.0,19219.0,1130,5038,-2385.0,more,2385.0
-2017-01-01,Construction,12491.0,6296.0,6364,839755,-6195.0,more,6195.0
-2017-01-01,Education,23089.0,25070.0,33578,13152,1981.0,less,1981.0
-2017-01-01,"Electricity, gas, steam and air conditioning supply",21299.0,22702.0,1522,15612,1403.0,less,1403.0
-2017-01-01,Financial and insurance activities,23027.0,28422.0,5677,9345,5395.0,less,5395.0
-2017-01-01,Human health and social work activities,19819.0,22876.0,16264,16506,3057.0,less,3057.0
-2017-01-01,Information and communication,22438.0,30115.0,3006,13398,7677.0,less,7677.0
-2017-01-01,Manufacturing,14920.0,8680.0,2217,141767,-6240.0,more,6240.0
-2017-01-01,Mining and quarrying,22032.0,26272.0,6776,92533,4240.0,less,4240.0
-2017-01-01,Other service activities,7571.0,11705.0,4967,10936,4134.0,less,4134.0
-2017-01-01,"Professional, scientific and technical activities",12935.0,18236.0,3523,25537,5301.0,less,5301.0
-2017-01-01,Public administration and defence; compulsory social security,24647.0,29164.0,14943,66824,4517.0,less,4517.0
-2017-01-01,Real estate activities,18993.0,15517.0,669,10382,-3476.0,more,3476.0
-2017-01-01,Transportation and storage,15439.0,14014.0,10413,49054,-1425.0,more,1425.0
-2017-01-01,"Water supply; sewerage, waste management and remediation activities",18094.0,17781.0,655,8250,-313.0,more,313.0
-2017-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,9656.0,7547.0,27506,224383,-2109.0,more,2109.0
-2018-01-01,Accommodation and food service activities,8227.0,6139.0,18690,55838,-2088.0,more,2088.0
-2018-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3090.0,2935.0,109127,64173,-155.0,more,155.0
-2018-01-01,Administrative and support service activities,7000.0,6735.0,9916,80806,-265.0,more,265.0
-2018-01-01,"Agriculture, forestry and fishing",0.0,5195.0,0,27780,5195.0,less,5195.0
-2018-01-01,"Arts, entertainment and recreation",21880.0,20329.0,940,5158,-1551.0,more,1551.0
-2018-01-01,Construction,13180.0,6322.0,6827,872472,-6858.0,more,6858.0
-2018-01-01,Education,23653.0,25650.0,34125,13201,1997.0,less,1997.0
-2018-01-01,"Electricity, gas, steam and air conditioning supply",21684.0,23506.0,1888,15524,1822.0,less,1822.0
-2018-01-01,Financial and insurance activities,23639.0,28533.0,5321,9348,4894.0,less,4894.0
-2018-01-01,Human health and social work activities,20233.0,22877.0,21160,17359,2644.0,less,2644.0
-2018-01-01,Information and communication,23342.0,30696.0,2729,13064,7354.0,less,7354.0
-2018-01-01,Manufacturing,15274.0,9116.0,2205,149381,-6158.0,more,6158.0
-2018-01-01,Mining and quarrying,22746.0,26300.0,6772,92026,3554.0,less,3554.0
-2018-01-01,Other service activities,7315.0,11488.0,7707,10000,4173.0,less,4173.0
-2018-01-01,"Professional, scientific and technical activities",13524.0,19687.0,2208,15815,6163.0,less,6163.0
-2018-01-01,Public administration and defence; compulsory social security,24571.0,29430.0,14697,63314,4859.0,less,4859.0
-2018-01-01,Real estate activities,21101.0,17136.0,871,9762,-3965.0,more,3965.0
-2018-01-01,Transportation and storage,19217.0,14526.0,10452,53539,-4691.0,more,4691.0
-2018-01-01,"Water supply; sewerage, waste management and remediation activities",17606.0,17791.0,720,6674,185.0,less,185.0
-2018-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,9340.0,7842.0,25539,223053,-1498.0,more,1498.0
-2019-01-01,Accommodation and food service activities,8145.0,5858.0,18046,53383,-2287.0,more,2287.0
-2019-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3170.0,3070.0,110693,66263,-100.0,more,100.0
-2019-01-01,Administrative and support service activities,7243.0,6590.0,9969,77679,-653.0,more,653.0
-2019-01-01,"Agriculture, forestry and fishing",0.0,5002.0,0,32091,5002.0,less,5002.0
-2019-01-01,"Arts, entertainment and recreation",22158.0,20652.0,967,4419,-1506.0,more,1506.0
-2019-01-01,Construction,13065.0,6531.0,5370,875455,-6534.0,more,6534.0
-2019-01-01,Education,23937.0,25868.0,34371,18008,1931.0,less,1931.0
-2019-01-01,"Electricity, gas, steam and air conditioning supply",21777.0,23922.0,2717,15901,2145.0,less,2145.0
-2019-01-01,Financial and insurance activities,23769.0,29439.0,4997,8486,5670.0,less,5670.0
-2019-01-01,Human health and social work activities,20591.0,23273.0,21633,21168,2682.0,less,2682.0
-2019-01-01,Information and communication,23504.0,30845.0,3067,12143,7341.0,less,7341.0
-2019-01-01,Manufacturing,16030.0,9594.0,2164,152731,-6436.0,more,6436.0
-2019-01-01,Mining and quarrying,23180.0,24986.0,6754,78758,1806.0,less,1806.0
-2019-01-01,Other service activities,7470.0,11607.0,7352,11320,4137.0,less,4137.0
-2019-01-01,"Professional, scientific and technical activities",14987.0,22294.0,2273,16422,7307.0,less,7307.0
-2019-01-01,Public administration and defence; compulsory social security,25230.0,30321.0,14893,62332,5091.0,less,5091.0
-2019-01-01,Real estate activities,21103.0,17042.0,1034,9549,-4061.0,more,4061.0
-2019-01-01,Transportation and storage,18917.0,14575.0,10183,65060,-4342.0,more,4342.0
-2019-01-01,"Water supply; sewerage, waste management and remediation activities",17914.0,17843.0,1059,7030,-71.0,more,71.0
-2019-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,8919.0,7743.0,24709,223423,-1176.0,more,1176.0
-2020-01-01,Accommodation and food service activities,7141.0,6496.0,15477,71990,-645.0,more,645.0
-2020-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3015.0,3005.0,97068,66542,-10.0,more,10.0
-2020-01-01,Administrative and support service activities,4421.0,6539.0,33307,150795,2118.0,less,2118.0
-2020-01-01,"Agriculture, forestry and fishing",0.0,4766.0,0,27904,4766.0,less,4766.0
-2020-01-01,"Arts, entertainment and recreation",22107.0,20027.0,1525,8895,-2080.0,more,2080.0
-2020-01-01,Construction,15342.0,5817.0,2930,747905,-9525.0,more,9525.0
-2020-01-01,Education,23790.0,25975.0,34974,19169,2185.0,less,2185.0
-2020-01-01,"Electricity, gas, steam and air conditioning supply",23167.0,24726.0,1764,10522,1559.0,less,1559.0
-2020-01-01,Financial and insurance activities,24106.0,27287.0,5577,16223,3181.0,less,3181.0
-2020-01-01,Human health and social work activities,20537.0,22916.0,26843,48268,2379.0,less,2379.0
-2020-01-01,Information and communication,23623.0,30423.0,3731,17646,6800.0,less,6800.0
-2020-01-01,Manufacturing,13520.0,9762.0,1582,99415,-3758.0,more,3758.0
-2020-01-01,Mining and quarrying,21918.0,34363.0,3653,31720,12445.0,less,12445.0
-2020-01-01,Other service activities,9006.0,10121.0,6300,5807,1115.0,less,1115.0
-2020-01-01,"Professional, scientific and technical activities",14707.0,19163.0,3533,43614,4456.0,less,4456.0
-2020-01-01,Public administration and defence; compulsory social security,24963.0,30302.0,20003,90540,5339.0,less,5339.0
-2020-01-01,Real estate activities,21604.0,17003.0,1218,17455,-4601.0,more,4601.0
-2020-01-01,Transportation and storage,18373.0,12015.0,8449,127616,-6358.0,more,6358.0
-2020-01-01,"Water supply; sewerage, waste management and remediation activities",17292.0,19143.0,332,849,1851.0,less,1851.0
-2020-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,8919.0,7527.0,22481,218995,-1392.0,more,1392.0
-2021-01-01,Accommodation and food service activities,6028.0,6245.0,22004,53031,217.0,less,217.0
-2021-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3037.0,3050.0,96373,64413,13.0,less,13.0
-2021-01-01,Administrative and support service activities,5328.0,4460.0,34126,144639,-868.0,more,868.0
-2021-01-01,"Agriculture, forestry and fishing",0.0,4238.0,0,26657,4238.0,less,4238.0
-2021-01-01,"Arts, entertainment and recreation",21734.0,25759.0,1787,3656,4025.0,less,4025.0
-2021-01-01,Construction,14752.0,5735.0,3751,662300,-9017.0,more,9017.0
-2021-01-01,Education,22962.0,22142.0,30933,26178,-820.0,more,820.0
-2021-01-01,"Electricity, gas, steam and air conditioning supply",23052.0,25272.0,2171,11213,2220.0,less,2220.0
-2021-01-01,Financial and insurance activities,24960.0,30244.0,5777,15825,5284.0,less,5284.0
-2021-01-01,Human health and social work activities,20372.0,22674.0,28315,47178,2302.0,less,2302.0
-2021-01-01,Information and communication,22951.0,30222.0,3851,16939,7271.0,less,7271.0
-2021-01-01,Manufacturing,15350.0,9779.0,1452,104160,-5571.0,more,5571.0
-2021-01-01,Mining and quarrying,21322.0,34064.0,3850,29748,12742.0,less,12742.0
-2021-01-01,Other service activities,7816.0,9542.0,5741,4945,1726.0,less,1726.0
-2021-01-01,"Professional, scientific and technical activities",14674.0,15363.0,3354,45265,689.0,less,689.0
-2021-01-01,Public administration and defence; compulsory social security,26327.0,30698.0,22871,88195,4371.0,less,4371.0
-2021-01-01,Real estate activities,19884.0,14897.0,1293,14249,-4987.0,more,4987.0
-2021-01-01,Transportation and storage,18480.0,11414.0,9827,125978,-7066.0,more,7066.0
-2021-01-01,"Water supply; sewerage, waste management and remediation activities",18375.0,26547.0,247,1320,8172.0,less,8172.0
-2021-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,10370.0,8899.0,27663,215328,-1471.0,more,1471.0
-2022-01-01,Accommodation and food service activities,7372.0,6797.0,22728,66946,-575.0,more,575.0
-2022-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3055.0,3079.0,101876,66750,24.0,less,24.0
-2022-01-01,Administrative and support service activities,9699.0,4923.0,29436,160951,-4776.0,more,4776.0
-2022-01-01,"Agriculture, forestry and fishing",0.0,4336.0,0,36834,4336.0,less,4336.0
-2022-01-01,"Arts, entertainment and recreation",21579.0,25338.0,3402,9427,3759.0,less,3759.0
-2022-01-01,Construction,14304.0,5800.0,7052,660791,-8504.0,more,8504.0
-2022-01-01,Education,23999.0,23987.0,41761,32047,-12.0,more,12.0
-2022-01-01,"Electricity, gas, steam and air conditioning supply",22914.0,25976.0,2718,11816,3062.0,less,3062.0
-2022-01-01,Financial and insurance activities,28036.0,30241.0,7090,18917,2205.0,less,2205.0
-2022-01-01,Human health and social work activities,19296.0,22390.0,44892,52528,3094.0,less,3094.0
-2022-01-01,Information and communication,23930.0,30545.0,5253,19263,6615.0,less,6615.0
-2022-01-01,Manufacturing,16562.0,9674.0,2254,105123,-6888.0,more,6888.0
-2022-01-01,Mining and quarrying,21819.0,34356.0,4210,29945,12537.0,less,12537.0
-2022-01-01,Other service activities,7292.0,11934.0,4213,9403,4642.0,less,4642.0
-2022-01-01,"Professional, scientific and technical activities",14651.0,16353.0,5912,26530,1702.0,less,1702.0
-2022-01-01,Public administration and defence; compulsory social security,27916.0,31540.0,23516,88755,3624.0,less,3624.0
-2022-01-01,Real estate activities,22167.0,14498.0,2024,18352,-7669.0,more,7669.0
-2022-01-01,Transportation and storage,18576.0,11034.0,15540,126321,-7542.0,more,7542.0
-2022-01-01,"Water supply; sewerage, waste management and remediation activities",18331.0,25864.0,313,4233,7533.0,less,7533.0
-2022-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,9860.0,8046.0,25711,220224,-1814.0,more,1814.0
-2023-01-01,Accommodation and food service activities,7701.0,6845.0,22262,73128,-856.0,more,856.0
-2023-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3051.0,3115.0,101069,66195,64.0,less,64.0
-2023-01-01,Administrative and support service activities,9741.0,4701.0,33147,163682,-5040.0,more,5040.0
-2023-01-01,"Agriculture, forestry and fishing",0.0,4120.0,0,37184,4120.0,less,4120.0
-2023-01-01,"Arts, entertainment and recreation",21441.0,24522.0,4204,9583,3081.0,less,3081.0
-2023-01-01,Construction,14410.0,5870.0,8489,659811,-8540.0,more,8540.0
-2023-01-01,Education,24391.0,25789.0,45460,31029,1398.0,less,1398.0
-2023-01-01,"Electricity, gas, steam and air conditioning supply",22913.0,25954.0,3196,13987,3041.0,less,3041.0
-2023-01-01,Financial and insurance activities,28201.0,30052.0,10115,18741,1851.0,less,1851.0
-2023-01-01,Human health and social work activities,19114.0,22968.0,49935,54571,3854.0,less,3854.0
-2023-01-01,Information and communication,23592.0,30151.0,6470,19495,6559.0,less,6559.0
-2023-01-01,Manufacturing,16076.0,9732.0,2753,104622,-6344.0,more,6344.0
-2023-01-01,Mining and quarrying,22086.0,34350.0,4373,30347,12264.0,less,12264.0
-2023-01-01,Other service activities,8217.0,11479.0,3911,11005,3262.0,less,3262.0
-2023-01-01,"Professional, scientific and technical activities",14898.0,16216.0,5288,26906,1318.0,less,1318.0
-2023-01-01,Public administration and defence; compulsory social security,28019.0,32849.0,24287,88881,4830.0,less,4830.0
-2023-01-01,Real estate activities,22206.0,13776.0,2902,18251,-8430.0,more,8430.0
-2023-01-01,Transportation and storage,18504.0,11085.0,21532,128160,-7419.0,more,7419.0
-2023-01-01,"Water supply; sewerage, waste management and remediation activities",19385.0,25494.0,297,6557,6109.0,less,6109.0
-2023-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,9601.0,7965.0,27679,224180,-1636.0,more,1636.0
-2024-01-01,Accommodation and food service activities,8306.5,6980.65,19774,63508,-1325.8500000000004,more,1325.8500000000004
-2024-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3033.07,3042.56,100087,65123,9.489999999999782,less,9.489999999999782
-2024-01-01,Administrative and support service activities,9610.61,5494.76,23227,124293,-4115.85,more,4115.85
-2024-01-01,"Agriculture, forestry and fishing",148.06,4462.85,2,33826,4314.79,less,4314.79
-2024-01-01,"Arts, entertainment and recreation",22122.12,23163.24,2885,9487,1041.1200000000026,less,1041.1200000000026
-2024-01-01,Construction,14715.76,5982.29,7411,613210,-8733.470000000001,more,8733.470000000001
-2024-01-01,Education,24219.85,25048.96,40510,25890,829.1100000000006,less,829.1100000000006
-2024-01-01,"Electricity, gas, steam and air conditioning supply",22903.44,25456.07,2662,14992,2552.630000000001,less,2552.630000000001
-2024-01-01,Financial and insurance activities,27162.02,29807.0,8276,16298,2644.9799999999996,less,2644.9799999999996
-2024-01-01,Human health and social work activities,19943.33,23075.73,35912,40118,3132.399999999998,less,3132.399999999998
-2024-01-01,Information and communication,23675.93,30011.75,5375,17778,6335.82,less,6335.82
-2024-01-01,Manufacturing,15729.12,9597.62,2623,110337,-6131.5,more,6131.5
-2024-01-01,Mining and quarrying,22665.11,32661.42,5386,43966,9996.309999999998,less,9996.309999999998
-2024-01-01,Other service activities,8567.3,11357.47,4774,10875,2790.17,less,2790.17
-2024-01-01,"Professional, scientific and technical activities",15202.22,16441.22,4519,28561,1239.0000000000018,less,1239.0000000000018
-2024-01-01,Public administration and defence; compulsory social security,27314.33,31936.42,22477,83667,4622.0899999999965,less,4622.0899999999965
-2024-01-01,Real estate activities,21832.38,14873.11,1960,16527,-6959.27,more,6959.27
-2024-01-01,Transportation and storage,18462.91,12080.75,16182,99434,-6382.16,more,6382.16
-2024-01-01,"Water supply; sewerage, waste management and remediation activities",19146.57,23238.52,479,7021,4091.9500000000007,less,4091.9500000000007
-2024-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,9828.87,7983.47,25914,207289,-1845.4000000000005,more,1845.4000000000005
-2025-01-01,Accommodation and food service activities,8411.95,7041.73,24581,77710,-1370.2200000000012,more,1370.2200000000012
-2025-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3037.92,3042.0,124850,81280,4.079999999999927,less,4.079999999999927
-2025-01-01,Administrative and support service activities,9469.15,5563.78,28078,147679,-3905.37,more,3905.37
-2025-01-01,"Agriculture, forestry and fishing",101.59,4533.86,9,41814,4432.2699999999995,less,4432.2699999999995
-2025-01-01,"Arts, entertainment and recreation",22421.79,23015.9,3676,12425,594.1100000000006,less,594.1100000000006
-2025-01-01,Construction,14905.88,6035.51,9461,746551,-8870.369999999999,more,8870.369999999999
-2025-01-01,Education,24345.45,25186.93,50067,31719,841.4799999999996,less,841.4799999999996
-2025-01-01,"Electricity, gas, steam and air conditioning supply",22958.17,25605.03,3416,19635,2646.8600000000006,less,2646.8600000000006
-2025-01-01,Financial and insurance activities,27164.09,30080.9,10446,20315,2916.8100000000013,less,2916.8100000000013
-2025-01-01,Human health and social work activities,20192.68,23186.95,43229,48216,2994.2700000000004,less,2994.2700000000004
-2025-01-01,Information and communication,24077.06,30159.37,6840,22277,6082.309999999998,less,6082.309999999998
-2025-01-01,Manufacturing,15770.19,9641.22,3469,139709,-6128.970000000001,more,6128.970000000001
-2025-01-01,Mining and quarrying,22872.11,32517.93,7369,62979,9645.82,less,9645.82
-2025-01-01,Other service activities,8701.67,11359.24,6323,14060,2657.5699999999997,less,2657.5699999999997
-2025-01-01,"Professional, scientific and technical activities",15383.87,16579.33,5805,36779,1195.460000000001,less,1195.460000000001
-2025-01-01,Public administration and defence; compulsory social security,27341.08,32119.33,28094,103672,4778.25,less,4778.25
-2025-01-01,Real estate activities,21841.66,15065.18,2508,20753,-6776.48,more,6776.48
-2025-01-01,Transportation and storage,18584.79,12328.23,19995,118522,-6256.560000000001,more,6256.560000000001
-2025-01-01,"Water supply; sewerage, waste management and remediation activities",19427.64,22949.15,732,9528,3521.510000000002,less,3521.510000000002
-2025-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,9878.38,8007.55,32489,253677,-1870.829999999999,more,1870.829999999999
-2026-01-01,Accommodation and food service activities,8574.26,7132.74,22651,69966,-1441.5200000000004,more,1441.5200000000004
-2026-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3067.14,3068.43,107400,71007,1.2899999999999636,less,1.2899999999999636
-2026-01-01,Administrative and support service activities,9475.24,5752.96,26456,134706,-3722.2799999999997,more,3722.2799999999997
-2026-01-01,"Agriculture, forestry and fishing",76.81,4643.93,8,38015,4567.12,less,4567.12
-2026-01-01,"Arts, entertainment and recreation",23007.74,23103.4,3585,11564,95.65999999999985,less,95.65999999999985
-2026-01-01,Construction,15190.11,6131.78,8936,612427,-9058.330000000002,more,9058.330000000002
-2026-01-01,Education,24829.29,25533.65,45487,29499,704.3600000000006,less,704.3600000000006
-2026-01-01,"Electricity, gas, steam and air conditioning supply",23403.36,26134.35,3265,17690,2730.989999999998,less,2730.989999999998
-2026-01-01,Financial and insurance activities,27592.47,30905.06,9899,18883,3312.59,less,3312.59
-2026-01-01,Human health and social work activities,20855.55,23781.53,40711,45013,2925.9799999999996,less,2925.9799999999996
-2026-01-01,Information and communication,24772.91,30951.83,6519,20481,6178.920000000002,less,6178.920000000002
-2026-01-01,Manufacturing,16115.67,9844.13,3285,117516,-6271.540000000001,more,6271.540000000001
-2026-01-01,Mining and quarrying,23440.12,33263.41,6638,49300,9823.290000000005,less,9823.290000000005
-2026-01-01,Other service activities,8756.34,11553.17,5676,12960,2796.83,less,2796.83
-2026-01-01,"Professional, scientific and technical activities",15816.98,17049.8,5520,32356,1232.8199999999997,less,1232.8199999999997
-2026-01-01,Public administration and defence; compulsory social security,27974.17,32788.24,25683,91193,4814.07,less,4814.07
-2026-01-01,Real estate activities,22362.56,15470.16,2446,19168,-6892.4000000000015,more,6892.4000000000015
-2026-01-01,Transportation and storage,19014.3,12734.4,18978,108259,-6279.9,more,6279.9
-2026-01-01,"Water supply; sewerage, waste management and remediation activities",19822.96,23216.09,668,8817,3393.130000000001,less,3393.130000000001
-2026-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,10084.04,8161.35,29511,217656,-1922.6900000000005,more,1922.6900000000005
-2027-01-01,Accommodation and food service activities,8795.24,7272.9,21538,65518,-1522.3400000000001,more,1522.3400000000001
-2027-01-01,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3103.05,3091.74,97159,65074,-11.3100000000004,more,11.3100000000004
-2027-01-01,Administrative and support service activities,9615.68,5893.92,25283,125748,-3721.76,more,3721.76
-2027-01-01,"Agriculture, forestry and fishing",51.91,4742.58,9,35504,4690.67,less,4690.67
-2027-01-01,"Arts, entertainment and recreation",23451.07,23434.75,3441,10855,-16.31999999999971,more,16.31999999999971
-2027-01-01,Construction,15383.44,6224.78,8535,534467,-9158.66,more,9158.66
-2027-01-01,Education,25212.67,25941.37,42521,27565,728.7000000000007,less,728.7000000000007
-2027-01-01,"Electricity, gas, steam and air conditioning supply",23733.85,26648.56,3160,16556,2914.7100000000028,less,2914.7100000000028
-2027-01-01,Financial and insurance activities,28028.27,31499.51,9435,17804,3471.239999999998,less,3471.239999999998
-2027-01-01,Human health and social work activities,21236.97,24201.23,38410,42478,2964.2599999999984,less,2964.2599999999984
-2027-01-01,Information and communication,25274.21,31492.39,6205,19319,6218.18,less,6218.18
-2027-01-01,Manufacturing,16393.66,10011.05,3160,105574,-6382.610000000001,more,6382.610000000001
-2027-01-01,Mining and quarrying,23823.99,33720.55,6303,43345,9896.560000000001,less,9896.560000000001
-2027-01-01,Other service activities,8865.33,11637.78,5528,12279,2772.4500000000007,less,2772.4500000000007
-2027-01-01,"Professional, scientific and technical activities",16049.32,17439.62,5300,29886,1390.2999999999993,less,1390.2999999999993
-2027-01-01,Public administration and defence; compulsory social security,28392.52,33201.27,23934,82976,4808.749999999996,less,4808.749999999996
-2027-01-01,Real estate activities,22686.95,15832.08,2368,18055,-6854.870000000001,more,6854.870000000001
-2027-01-01,Transportation and storage,19333.41,13030.34,18001,100737,-6303.07,more,6303.07
-2027-01-01,"Water supply; sewerage, waste management and remediation activities",20170.73,23421.49,662,8311,3250.760000000002,less,3250.760000000002
-2027-01-01,Wholesale and retail trade; repair of motor vehicles and motorcycles,10232.69,8251.25,27946,195491,-1981.4400000000005,more,1981.4400000000005
+Year,Economic activity,Female Salary,Male Salary,Female Paid Workers,Male Paid Workers,Salary gap,Women are paid,Absolute gap,Weighted Total
+1/1/2011,Accommodation and food service activities,6602,4669,2548,27788,-1933,more,1933,20308
+1/1/2011,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2409,2403,83792,47815,-6,more,6,3675
+1/1/2011,Administrative and support service activities,7798,6640,2444,37629,-1158,more,1158,29603
+1/1/2011,"Agriculture, forestry and fishing",2765,3153,46,17047,388,less,388,16842
+1/1/2011,"Arts, entertainment and recreation",13657,14089,742,3883,432,less,432,4372
+1/1/2011,Construction,10745,4659,2836,492783,-6086,more,6086,310387
+1/1/2011,Education,12958,15539,16338,10594,2581,less,2581,11806
+1/1/2011,"Electricity, gas, steam and air conditioning supply",13807,18975,390,5026,5168,less,5168,5203
+1/1/2011,Financial and insurance activities,13516,17882,2689,7845,4366,less,4366,8586
+1/1/2011,Human health and social work activities,13176,16536,10530,10547,3360,less,3360,11570
+1/1/2011,Information and communication,13540,16648,1873,8051,3108,less,3108,8606
+1/1/2011,Manufacturing,10217,6537,600,99841,-3680,more,3680,92306
+1/1/2011,Mining and quarrying,18237,15110,2441,79367,-3127,more,3127,70865
+1/1/2011,Other service activities,10745,6129,316,4003,-4616,more,4616,4334
+1/1/2011,"Professional, scientific and technical activities",10562,7928,1284,22447,-2634,more,2634,20790
+1/1/2011,Public administration and defence; compulsory social security,14417,16386,13648,62606,1969,less,1969,40708
+1/1/2011,Real estate activities,12208,10682,416,8562,-1526,more,1526,8699
+1/1/2011,Transportation and storage,8716,7389,3910,28509,-1327,more,1327,21660
+1/1/2011,"Water supply; sewerage, waste management and remediation activities",0,11529,0,1138,11529,less,11529,1138
+1/1/2011,Wholesale and retail trade; repair of motor vehicles and motorcycles,7738,5329,5121,134581,-2409,more,2409,72422
+1/1/2012,Accommodation and food service activities,8597,6025,2990,29094,-2572,more,2572,22296
+1/1/2012,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2425,2233,90361,49543,-192,more,192,3561
+1/1/2012,Administrative and support service activities,11556,5367,2298,38936,-6189,more,6189,30727
+1/1/2012,"Agriculture, forestry and fishing",2955,4411,55,17959,1456,less,1456,17774
+1/1/2012,"Arts, entertainment and recreation",19364,12131,752,6994,-7233,more,7233,7716
+1/1/2012,Construction,11990,3879,2911,494056,-8111,more,8111,287385
+1/1/2012,Education,17268,17438,18193,11894,170,less,170,14638
+1/1/2012,"Electricity, gas, steam and air conditioning supply",14824,18666,479,7186,3842,less,3842,7377
+1/1/2012,Financial and insurance activities,18049,20239,3178,8099,2190,less,2190,9449
+1/1/2012,Human health and social work activities,17131,16978,11649,11644,-153,more,153,13877
+1/1/2012,Information and communication,17638,18749,2783,8634,1111,less,1111,9798
+1/1/2012,Manufacturing,12585,6536,659,101852,-6049,more,6049,93676
+1/1/2012,Mining and quarrying,23838,18431,3102,79963,-5407,more,5407,71878
+1/1/2012,Other service activities,8793,5934,680,4295,-2859,more,2859,4757
+1/1/2012,"Professional, scientific and technical activities",11752,7477,1501,23469,-4275,more,4275,21510
+1/1/2012,Public administration and defence; compulsory social security,19864,23597,13785,67634,3733,less,3733,50018
+1/1/2012,Real estate activities,16904,13675,350,8743,-3229,more,3229,8947
+1/1/2012,Transportation and storage,14968,11412,5338,32394,-3556,more,3556,26841
+1/1/2012,"Water supply; sewerage, waste management and remediation activities",16278,13194,38,1233,-3084,more,3084,1276
+1/1/2012,Wholesale and retail trade; repair of motor vehicles and motorcycles,7752,6451,5239,161783,-1301,more,1301,92752
+1/1/2013,Accommodation and food service activities,9270,8536,3695,35135,-734,more,734,27321
+1/1/2013,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2589,2458,95631,56381,-131,more,131,3937
+1/1/2013,Administrative and support service activities,8889,7217,3894,43895,-1672,more,1672,31627
+1/1/2013,"Agriculture, forestry and fishing",0,5020,0,21076,5020,less,5020,21076
+1/1/2013,"Arts, entertainment and recreation",19199,11357,1286,7790,-7842,more,7842,8950
+1/1/2013,Construction,16106,4693,3308,562864,-11413,more,11413,336808
+1/1/2013,Education,19840,19401,26042,13423,-439,more,439,17100
+1/1/2013,"Electricity, gas, steam and air conditioning supply",18329,20550,706,8056,2221,less,2221,8397
+1/1/2013,Financial and insurance activities,18846,22212,3705,8575,3366,less,3366,10043
+1/1/2013,Human health and social work activities,17695,17561,14876,12832,-134,more,134,15062
+1/1/2013,Information and communication,17974,20909,3167,9380,2935,less,2935,10510
+1/1/2013,Manufacturing,14515,7479,935,118163,-7036,more,7036,106645
+1/1/2013,Mining and quarrying,23787,21789,3231,92114,-1998,more,1998,83290
+1/1/2013,Other service activities,11385,7371,1105,5826,-4014,more,4014,6551
+1/1/2013,"Professional, scientific and technical activities",14632,9524,1772,26274,-5108,more,5108,24448
+1/1/2013,Public administration and defence; compulsory social security,20697,25123,15036,80656,4426,less,4426,58207
+1/1/2013,Real estate activities,17761,15044,502,9666,-2717,more,2717,9927
+1/1/2013,Transportation and storage,15162,11912,6251,38123,-3250,more,3250,30221
+1/1/2013,"Water supply; sewerage, waste management and remediation activities",15937,14891,187,2631,-1046,more,1046,2796
+1/1/2013,Wholesale and retail trade; repair of motor vehicles and motorcycles,9650,7577,6826,184765,-2073,more,2073,101773
+1/1/2014,Accommodation and food service activities,12294,8939,4002,38296,-3355,more,3355,30255
+1/1/2014,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2807,2630,97202,56855,-177,more,177,4231
+1/1/2014,Administrative and support service activities,12016,7626,4000,44772,-4390,more,4390,33502
+1/1/2014,"Agriculture, forestry and fishing",0,5012,0,22980,5012,less,5012,22980
+1/1/2014,"Arts, entertainment and recreation",21818,15187,1336,12403,-6631,more,6631,13164
+1/1/2014,Construction,16414,5877,4365,629458,-10537,more,10537,368187
+1/1/2014,Education,19808,20989,26157,15234,1181,less,1181,17772
+1/1/2014,"Electricity, gas, steam and air conditioning supply",18467,19056,883,19635,589,less,589,19583
+1/1/2014,Financial and insurance activities,20029,23363,3838,8959,3334,less,3334,10521
+1/1/2014,Human health and social work activities,17864,19489,14936,13209,1625,less,1625,15229
+1/1/2014,Information and communication,19173,22356,3226,9892,3183,less,3183,11062
+1/1/2014,Manufacturing,15381,7925,1773,132265,-7456,more,7456,110896
+1/1/2014,Mining and quarrying,24829,23326,5246,94027,-1503,more,1503,81322
+1/1/2014,Other service activities,11151,8379,1347,9384,-2772,more,2772,9629
+1/1/2014,"Professional, scientific and technical activities",16883,11367,1617,26358,-5516,more,5516,25178
+1/1/2014,Public administration and defence; compulsory social security,21323,25786,15592,82335,4463,less,4463,59345
+1/1/2014,Real estate activities,19407,14556,603,10875,-4851,more,4851,11214
+1/1/2014,Transportation and storage,16228,12344,9122,45020,-3884,more,3884,32785
+1/1/2014,"Water supply; sewerage, waste management and remediation activities",16950,11965,549,13147,-4985,more,4985,13314
+1/1/2014,Wholesale and retail trade; repair of motor vehicles and motorcycles,10629,8328,7098,187604,-2301,more,2301,106172
+1/1/2015,Accommodation and food service activities,12476,8691,13180,37756,-3785,more,3785,22522
+1/1/2015,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2909,2682,105177,57199,-227,more,227,4259
+1/1/2015,Administrative and support service activities,12244,7643,4085,51580,-4601,more,4601,37879
+1/1/2015,"Agriculture, forestry and fishing",0,5186,0,23867,5186,less,5186,23867
+1/1/2015,"Arts, entertainment and recreation",22153,15501,1498,13061,-6652,more,6652,13862
+1/1/2015,Construction,17032,5951,4514,778682,-11081,more,11081,450150
+1/1/2015,Education,20199,19771,34620,15970,-428,more,428,18662
+1/1/2015,"Electricity, gas, steam and air conditioning supply",20219,21422,939,18833,1203,less,1203,18891
+1/1/2015,Financial and insurance activities,20629,23465,6157,9132,2836,less,2836,11522
+1/1/2015,Human health and social work activities,18263,19635,15774,14259,1372,less,1372,16043
+1/1/2015,Information and communication,19880,22424,3159,10320,2544,less,2544,11500
+1/1/2015,Manufacturing,15323,9528,2261,132611,-5795,more,5795,110116
+1/1/2015,Mining and quarrying,21613,24030,7024,94658,2417,less,2417,78136
+1/1/2015,Other service activities,11331,8499,3074,10914,-2832,more,2832,11025
+1/1/2015,"Professional, scientific and technical activities",16973,10619,1862,26642,-6354,more,6354,25200
+1/1/2015,Public administration and defence; compulsory social security,22639,26144,17198,83684,3505,less,3505,59461
+1/1/2015,Real estate activities,19945,13982,942,10931,-5963,more,5963,11500
+1/1/2015,Transportation and storage,16260,12494,10783,54973,-3766,more,3766,37039
+1/1/2015,"Water supply; sewerage, waste management and remediation activities",17525,13154,790,12346,-4371,more,4371,12639
+1/1/2015,Wholesale and retail trade; repair of motor vehicles and motorcycles,10380,7454,25443,224826,-2926,more,2926,58970
+1/1/2016,Accommodation and food service activities,8513,5844,17274,55325,-2669,more,2669,20347
+1/1/2016,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2989,2787,107621,66121,-202,more,202,4583
+1/1/2016,Administrative and support service activities,8429,6636,5702,78951,-1793,more,1793,46359
+1/1/2016,"Agriculture, forestry and fishing",0,5088,0,24848,5088,less,5088,24848
+1/1/2016,"Arts, entertainment and recreation",21520,18915,884,5368,-2605,more,2605,6089
+1/1/2016,Construction,12278,6090,6270,839136,-6188,more,6188,419686
+1/1/2016,Education,23485,25044,33280,13387,1559,less,1559,19149
+1/1/2016,"Electricity, gas, steam and air conditioning supply",20523,22891,1525,15844,2368,less,2368,16136
+1/1/2016,Financial and insurance activities,22568,28626,5782,9602,6058,less,6058,11781
+1/1/2016,Human health and social work activities,19939,22116,16170,13663,2177,less,2177,16314
+1/1/2016,Information and communication,22745,28472,2460,13079,5727,less,5727,13848
+1/1/2016,Manufacturing,15197,8419,2119,141666,-6778,more,6778,116235
+1/1/2016,Mining and quarrying,21653,26784,6639,93635,5131,less,5131,79337
+1/1/2016,Other service activities,7758,11670,4643,11318,3912,less,3912,10305
+1/1/2016,"Professional, scientific and technical activities",12401,17239,3333,25268,4838,less,4838,23183
+1/1/2016,Public administration and defence; compulsory social security,24210,29311,15425,71800,5101,less,5101,55391
+1/1/2016,Real estate activities,18883,15922,744,10839,-2961,more,2961,11198
+1/1/2016,Transportation and storage,15167,14353,10492,47917,-814,more,814,34087
+1/1/2016,"Water supply; sewerage, waste management and remediation activities",17974,17353,604,8578,-621,more,621,8894
+1/1/2016,Wholesale and retail trade; repair of motor vehicles and motorcycles,9270,7644,27328,224442,-1626,more,1626,56301
+1/1/2017,Accommodation and food service activities,8883,5659,18220,55567,-3224,more,3224,19946
+1/1/2017,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3014,2809,108942,63464,-205,more,205,4533
+1/1/2017,Administrative and support service activities,8116,6845,6922,80512,-1271,more,1271,44112
+1/1/2017,"Agriculture, forestry and fishing",0,5250,0,25431,5250,less,5250,25431
+1/1/2017,"Arts, entertainment and recreation",21604,19219,1130,5038,-2385,more,2385,5958
+1/1/2017,Construction,12491,6296,6364,839755,-6195,more,6195,423901
+1/1/2017,Education,23089,25070,33578,13152,1981,less,1981,18841
+1/1/2017,"Electricity, gas, steam and air conditioning supply",21299,22702,1522,15612,1403,less,1403,15969
+1/1/2017,Financial and insurance activities,23027,28422,5677,9345,5395,less,5395,11623
+1/1/2017,Human health and social work activities,19819,22876,16264,16506,3057,less,3057,17883
+1/1/2017,Information and communication,22438,30115,3006,13398,7677,less,7677,14218
+1/1/2017,Manufacturing,14920,8680,2217,141767,-6240,more,6240,115960
+1/1/2017,Mining and quarrying,22032,26272,6776,92533,4240,less,4240,78078
+1/1/2017,Other service activities,7571,11705,4967,10936,4134,less,4134,9933
+1/1/2017,"Professional, scientific and technical activities",12935,18236,3523,25537,5301,less,5301,23497
+1/1/2017,Public administration and defence; compulsory social security,24647,29164,14943,66824,4517,less,4517,52535
+1/1/2017,Real estate activities,18993,15517,669,10382,-3476,more,3476,10738
+1/1/2017,Transportation and storage,15439,14014,10413,49054,-1425,more,1425,34724
+1/1/2017,"Water supply; sewerage, waste management and remediation activities",18094,17781,655,8250,-313,more,313,8600
+1/1/2017,Wholesale and retail trade; repair of motor vehicles and motorcycles,9656,7547,27506,224383,-2109,more,2109,55887
+1/1/2018,Accommodation and food service activities,8227,6139,18690,55838,-2088,more,2088,19999
+1/1/2018,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3090,2935,109127,64173,-155,more,155,4690
+1/1/2018,Administrative and support service activities,7000,6735,9916,80806,-265,more,265,36853
+1/1/2018,"Agriculture, forestry and fishing",0,5195,0,27780,5195,less,5195,27780
+1/1/2018,"Arts, entertainment and recreation",21880,20329,940,5158,-1551,more,1551,5897
+1/1/2018,Construction,13180,6322,6827,872472,-6858,more,6858,426325
+1/1/2018,Education,23653,25650,34125,13201,1997,less,1997,19168
+1/1/2018,"Electricity, gas, steam and air conditioning supply",21684,23506,1888,15524,1822,less,1822,15982
+1/1/2018,Financial and insurance activities,23639,28533,5321,9348,4894,less,4894,11594
+1/1/2018,Human health and social work activities,20233,22877,21160,17359,2644,less,2644,18740
+1/1/2018,Information and communication,23342,30696,2729,13064,7354,less,7354,13903
+1/1/2018,Manufacturing,15274,9116,2205,149381,-6158,more,6158,123261
+1/1/2018,Mining and quarrying,22746,26300,6772,92026,3554,less,3554,77840
+1/1/2018,Other service activities,7315,11488,7707,10000,4173,less,4173,8922
+1/1/2018,"Professional, scientific and technical activities",13524,19687,2208,15815,6163,less,6163,15584
+1/1/2018,Public administration and defence; compulsory social security,24571,29430,14697,63314,4859,less,4859,50410
+1/1/2018,Real estate activities,21101,17136,871,9762,-3965,more,3965,10310
+1/1/2018,Transportation and storage,19217,14526,10452,53539,-4691,more,4691,39177
+1/1/2018,"Water supply; sewerage, waste management and remediation activities",17606,17791,720,6674,185,less,185,7099
+1/1/2018,Wholesale and retail trade; repair of motor vehicles and motorcycles,9340,7842,25539,223053,-1498,more,1498,59546
+1/1/2019,Accommodation and food service activities,8145,5858,18046,53383,-2287,more,2287,19231
+1/1/2019,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3170,3070,110693,66263,-100,more,100,4873
+1/1/2019,Administrative and support service activities,7243,6590,9969,77679,-653,more,653,35274
+1/1/2019,"Agriculture, forestry and fishing",0,5002,0,32091,5002,less,5002,32091
+1/1/2019,"Arts, entertainment and recreation",22158,20652,967,4419,-1506,more,1506,5212
+1/1/2019,Construction,13065,6531,5370,875455,-6534,more,6534,486325
+1/1/2019,Education,23937,25868,34371,18008,1931,less,1931,21391
+1/1/2019,"Electricity, gas, steam and air conditioning supply",21777,23922,2717,15901,2145,less,2145,16500
+1/1/2019,Financial and insurance activities,23769,29439,4997,8486,5670,less,5670,10704
+1/1/2019,Human health and social work activities,20591,23273,21633,21168,2682,less,2682,20890
+1/1/2019,Information and communication,23504,30845,3067,12143,7341,less,7341,13170
+1/1/2019,Manufacturing,16030,9594,2164,152731,-6436,more,6436,127572
+1/1/2019,Mining and quarrying,23180,24986,6754,78758,1806,less,1806,66931
+1/1/2019,Other service activities,7470,11607,7352,11320,4137,less,4137,9827
+1/1/2019,"Professional, scientific and technical activities",14987,22294,2273,16422,7307,less,7307,16289
+1/1/2019,Public administration and defence; compulsory social security,25230,30321,14893,62332,5091,less,5091,50111
+1/1/2019,Real estate activities,21103,17042,1034,9549,-4061,more,4061,10210
+1/1/2019,Transportation and storage,18917,14575,10183,65060,-4342,more,4342,46081
+1/1/2019,"Water supply; sewerage, waste management and remediation activities",17914,17843,1059,7030,-71,more,71,7640
+1/1/2019,Wholesale and retail trade; repair of motor vehicles and motorcycles,8919,7743,24709,223423,-1176,more,1176,60099
+1/1/2020,Accommodation and food service activities,7141,6496,15477,71990,-645,more,645,26313
+1/1/2020,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3015,3005,97068,66542,-10,more,10,4923
+1/1/2020,Administrative and support service activities,4421,6539,33307,150795,2118,less,2118,28442
+1/1/2020,"Agriculture, forestry and fishing",0,4766,0,27904,4766,less,4766,27904
+1/1/2020,"Arts, entertainment and recreation",22107,20027,1525,8895,-2080,more,2080,9830
+1/1/2020,Construction,15342,5817,2930,747905,-9525,more,9525,502517
+1/1/2020,Education,23790,25975,34974,19169,2185,less,2185,21821
+1/1/2020,"Electricity, gas, steam and air conditioning supply",23167,24726,1764,10522,1559,less,1559,11364
+1/1/2020,Financial and insurance activities,24106,27287,5577,16223,3181,less,3181,17561
+1/1/2020,Human health and social work activities,20537,22916,26843,48268,2379,less,2379,33308
+1/1/2020,Information and communication,23623,30423,3731,17646,6800,less,6800,18299
+1/1/2020,Manufacturing,13520,9762,1582,99415,-3758,more,3758,87436
+1/1/2020,Mining and quarrying,21918,34363,3653,31720,12445,less,12445,30778
+1/1/2020,Other service activities,9006,10121,6300,5807,1115,less,1115,7034
+1/1/2020,"Professional, scientific and technical activities",14707,19163,3533,43614,4456,less,4456,39114
+1/1/2020,Public administration and defence; compulsory social security,24963,30302,20003,90540,5339,less,5339,64464
+1/1/2020,Real estate activities,21604,17003,1218,17455,-4601,more,4601,17732
+1/1/2020,Transportation and storage,18373,12015,8449,127616,-6358,more,6358,82513
+1/1/2020,"Water supply; sewerage, waste management and remediation activities",17292,19143,332,849,1851,less,1851,1129
+1/1/2020,Wholesale and retail trade; repair of motor vehicles and motorcycles,8919,7527,22481,218995,-1392,more,1392,61613
+1/1/2021,Accommodation and food service activities,6028,6245,22004,53031,217,less,217,16419
+1/1/2021,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3037,3050,96373,64413,13,less,13,4920
+1/1/2021,Administrative and support service activities,5328,4460,34126,144639,-868,more,868,21430
+1/1/2021,"Agriculture, forestry and fishing",0,4238,0,26657,4238,less,4238,26657
+1/1/2021,"Arts, entertainment and recreation",21734,25759,1787,3656,4025,less,4025,4829
+1/1/2021,Construction,14752,5735,3751,662300,-9017,more,9017,406243
+1/1/2021,Education,22962,22142,30933,26178,-820,more,820,24304
+1/1/2021,"Electricity, gas, steam and air conditioning supply",23052,25272,2171,11213,2220,less,2220,12150
+1/1/2021,Financial and insurance activities,24960,30244,5777,15825,5284,less,5284,17290
+1/1/2021,Human health and social work activities,20372,22674,28315,47178,2302,less,2302,32292
+1/1/2021,Information and communication,22951,30222,3851,16939,7271,less,7271,17618
+1/1/2021,Manufacturing,15350,9779,1452,104160,-5571,more,5571,92678
+1/1/2021,Mining and quarrying,21322,34064,3850,29748,12742,less,12742,28892
+1/1/2021,Other service activities,7816,9542,5741,4945,1726,less,1726,6023
+1/1/2021,"Professional, scientific and technical activities",14674,15363,3354,45265,689,less,689,39783
+1/1/2021,Public administration and defence; compulsory social security,26327,30698,22871,88195,4371,less,4371,61781
+1/1/2021,Real estate activities,19884,14897,1293,14249,-4987,more,4987,14699
+1/1/2021,Transportation and storage,18480,11414,9827,125978,-7066,more,7066,76245
+1/1/2021,"Water supply; sewerage, waste management and remediation activities",18375,26547,247,1320,8172,less,8172,1477
+1/1/2021,Wholesale and retail trade; repair of motor vehicles and motorcycles,10370,8899,27663,215328,-1471,more,1471,60256
+1/1/2022,Accommodation and food service activities,7372,6797,22728,66946,-575,more,575,21087
+1/1/2022,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3055,3079,101876,66750,24,less,24,4924
+1/1/2022,Administrative and support service activities,9699,4923,29436,160951,-4776,more,4776,31371
+1/1/2022,"Agriculture, forestry and fishing",0,4336,0,36834,4336,less,4336,36834
+1/1/2022,"Arts, entertainment and recreation",21579,25338,3402,9427,3759,less,3759,10865
+1/1/2022,Construction,14304,5800,7052,660791,-8504,more,8504,306058
+1/1/2022,Education,23999,23987,41761,32047,-12,more,12,26935
+1/1/2022,"Electricity, gas, steam and air conditioning supply",22914,25976,2718,11816,3062,less,3062,12867
+1/1/2022,Financial and insurance activities,28036,30241,7090,18917,2205,less,2205,20649
+1/1/2022,Human health and social work activities,19296,22390,44892,52528,3094,less,3094,30355
+1/1/2022,Information and communication,23930,30545,5253,19263,6615,less,6615,19948
+1/1/2022,Manufacturing,16562,9674,2254,105123,-6888,more,6888,88388
+1/1/2022,Mining and quarrying,21819,34356,4210,29945,12537,less,12537,29058
+1/1/2022,Other service activities,7292,11934,4213,9403,4642,less,4642,8852
+1/1/2022,"Professional, scientific and technical activities",14651,16353,5912,26530,1702,less,1702,23376
+1/1/2022,Public administration and defence; compulsory social security,27916,31540,23516,88755,3624,less,3624,62769
+1/1/2022,Real estate activities,22167,14498,2024,18352,-7669,more,7669,18819
+1/1/2022,Transportation and storage,18576,11034,15540,126321,-7542,more,7542,63314
+1/1/2022,"Water supply; sewerage, waste management and remediation activities",18331,25864,313,4233,7533,less,7533,4402
+1/1/2022,Wholesale and retail trade; repair of motor vehicles and motorcycles,9860,8046,25711,220224,-1814,more,1814,60000
+1/1/2023,Accommodation and food service activities,7701,6845,22262,73128,-856,more,856,23087
+1/1/2023,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3051,3115,101069,66195,64,less,64,4939
+1/1/2023,Administrative and support service activities,9741,4701,33147,163682,-5040,more,5040,28862
+1/1/2023,"Agriculture, forestry and fishing",0,4120,0,37184,4120,less,4120,37184
+1/1/2023,"Arts, entertainment and recreation",21441,24522,4204,9583,3081,less,3081,11318
+1/1/2023,Construction,14410,5870,8489,659811,-8540,more,8540,278252
+1/1/2023,Education,24391,25789,45460,31029,1398,less,1398,26794
+1/1/2023,"Electricity, gas, steam and air conditioning supply",22913,25954,3196,13987,3041,less,3041,14966
+1/1/2023,Financial and insurance activities,28201,30052,10115,18741,1851,less,1851,21123
+1/1/2023,Human health and social work activities,19114,22968,49935,54571,3854,less,3854,30285
+1/1/2023,Information and communication,23592,30151,6470,19495,6559,less,6559,20219
+1/1/2023,Manufacturing,16076,9732,2753,104622,-6344,more,6344,85097
+1/1/2023,Mining and quarrying,22086,34350,4373,30347,12264,less,12264,29414
+1/1/2023,Other service activities,8217,11479,3911,11005,3262,less,3262,10296
+1/1/2023,"Professional, scientific and technical activities",14898,16216,5288,26906,1318,less,1318,23953
+1/1/2023,Public administration and defence; compulsory social security,28019,32849,24287,88881,4830,less,4830,63010
+1/1/2023,Real estate activities,22206,13776,2902,18251,-8430,more,8430,18939
+1/1/2023,Transportation and storage,18504,11085,21532,128160,-7419,more,7419,55771
+1/1/2023,"Water supply; sewerage, waste management and remediation activities",19385,25494,297,6557,6109,less,6109,6705
+1/1/2023,Wholesale and retail trade; repair of motor vehicles and motorcycles,9601,7965,27679,224180,-1636,more,1636,57551
+1/1/2024,Accommodation and food service activities,8306.5,6980.65,19774,63508,-1325.85,more,1325.8500000000004,22709
+1/1/2024,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3033.07,3042.56,100087,65123,9.489999999999782,less,9.489999999999782,4865
+1/1/2024,Administrative and support service activities,9610.61,5494.76,23227,124293,-4115.85,more,4115.85,31550
+1/1/2024,"Agriculture, forestry and fishing",148.06,4462.85,2,33826,4314.79,less,4314.79,33811
+1/1/2024,"Arts, entertainment and recreation",22122.12,23163.24,2885,9487,1041.1200000000026,less,1041.1200000000026,10886
+1/1/2024,Construction,14715.76,5982.29,7411,613210,-8733.47,more,8733.470000000001,282041
+1/1/2024,Education,24219.85,25048.96,40510,25890,829.1100000000006,less,829.1100000000006,24858
+1/1/2024,"Electricity, gas, steam and air conditioning supply",22903.44,25456.07,2662,14992,2552.630000000001,less,2552.630000000001,15741
+1/1/2024,Financial and insurance activities,27162.02,29807,8276,16298,2644.9799999999996,less,2644.9799999999996,18659
+1/1/2024,Human health and social work activities,19943.33,23075.73,35912,40118,3132.399999999998,less,3132.399999999998,27836
+1/1/2024,Information and communication,23675.93,30011.75,5375,17778,6335.82,less,6335.82,18674
+1/1/2024,Manufacturing,15729.12,9597.62,2623,110337,-6131.5,more,6131.5,90031
+1/1/2024,Mining and quarrying,22665.11,32661.42,5386,43966,9996.309999999998,less,9996.309999999998,40951
+1/1/2024,Other service activities,8567.3,11357.47,4774,10875,2790.17,less,2790.17,10192
+1/1/2024,"Professional, scientific and technical activities",15202.22,16441.22,4519,28561,1239.0000000000018,less,1239.0000000000018,25681
+1/1/2024,Public administration and defence; compulsory social security,27314.33,31936.42,22477,83667,4622.0899999999965,less,4622.0899999999965,60389
+1/1/2024,Real estate activities,21832.38,14873.11,1960,16527,-6959.27,more,6959.27,17145
+1/1/2024,Transportation and storage,18462.91,12080.75,16182,99434,-6382.16,more,6382.16,53074
+1/1/2024,"Water supply; sewerage, waste management and remediation activities",19146.57,23238.52,479,7021,4091.9500000000007,less,4091.9500000000007,7266
+1/1/2024,Wholesale and retail trade; repair of motor vehicles and motorcycles,9828.87,7983.47,25914,207289,-1845.4,more,1845.4000000000005,56334
+1/1/2025,Accommodation and food service activities,8411.95,7041.73,24581,77710,-1370.22,more,1370.2200000000012,23843
+1/1/2025,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3037.92,3042,124850,81280,4.079999999999927,less,4.079999999999927,4899
+1/1/2025,Administrative and support service activities,9469.15,5563.78,28078,147679,-3905.37,more,3905.37,32327
+1/1/2025,"Agriculture, forestry and fishing",101.59,4533.86,9,41814,4432.2699999999995,less,4432.2699999999995,41731
+1/1/2025,"Arts, entertainment and recreation",22421.79,23015.9,3676,12425,594.1100000000006,less,594.1100000000006,13802
+1/1/2025,Construction,14905.88,6035.51,9461,746551,-8870.37,more,8870.369999999999,299864
+1/1/2025,Education,24345.45,25186.93,50067,31719,841.4799999999996,less,841.4799999999996,26813
+1/1/2025,"Electricity, gas, steam and air conditioning supply",22958.17,25605.03,3416,19635,2646.8600000000006,less,2646.8600000000006,20026
+1/1/2025,Financial and insurance activities,27164.09,30080.9,10446,20315,2916.8100000000013,less,2916.8100000000013,22080
+1/1/2025,Human health and social work activities,20192.68,23186.95,43229,48216,2994.2700000000004,less,2994.2700000000004,29976
+1/1/2025,Information and communication,24077.06,30159.37,6840,22277,6082.309999999998,less,6082.309999999998,22610
+1/1/2025,Manufacturing,15770.19,9641.22,3469,139709,-6128.97,more,6128.970000000001,106914
+1/1/2025,Mining and quarrying,22872.11,32517.93,7369,62979,9645.82,less,9645.82,55569
+1/1/2025,Other service activities,8701.67,11359.24,6323,14060,2657.5699999999997,less,2657.5699999999997,12144
+1/1/2025,"Professional, scientific and technical activities",15383.87,16579.33,5805,36779,1195.460000000001,less,1195.460000000001,31231
+1/1/2025,Public administration and defence; compulsory social security,27341.08,32119.33,28094,103672,4778.25,less,4778.25,68058
+1/1/2025,Real estate activities,21841.66,15065.18,2508,20753,-6776.48,more,6776.48,20908
+1/1/2025,Transportation and storage,18584.79,12328.23,19995,118522,-6256.56,more,6256.560000000001,56701
+1/1/2025,"Water supply; sewerage, waste management and remediation activities",19427.64,22949.15,732,9528,3521.510000000002,less,3521.510000000002,9834
+1/1/2025,Wholesale and retail trade; repair of motor vehicles and motorcycles,9878.38,8007.55,32489,253677,-1870.83,more,1870.829999999999,58086
+1/1/2026,Accommodation and food service activities,8574.26,7132.74,22651,69966,-1441.52,more,1441.5200000000004,23277
+1/1/2026,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3067.14,3068.43,107400,71007,1.2899999999999636,less,1.2899999999999636,4954
+1/1/2026,Administrative and support service activities,9475.24,5752.96,26456,134706,-3722.28,more,3722.2799999999997,31843
+1/1/2026,"Agriculture, forestry and fishing",76.81,4643.93,8,38015,4567.12,less,4567.12,37950
+1/1/2026,"Arts, entertainment and recreation",23007.74,23103.4,3585,11564,95.65999999999985,less,95.65999999999985,13101
+1/1/2026,Construction,15190.11,6131.78,8936,612427,-9058.33,more,9058.330000000002,258234
+1/1/2026,Education,24829.29,25533.65,45487,29499,704.3600000000006,less,704.3600000000006,26508
+1/1/2026,"Electricity, gas, steam and air conditioning supply",23403.36,26134.35,3265,17690,2730.989999999998,less,2730.989999999998,18325
+1/1/2026,Financial and insurance activities,27592.47,30905.06,9899,18883,3312.59,less,3312.59,20996
+1/1/2026,Human health and social work activities,20855.55,23781.53,40711,45013,2925.9799999999996,less,2925.9799999999996,29764
+1/1/2026,Information and communication,24772.91,30951.83,6519,20481,6178.920000000002,less,6178.920000000002,21228
+1/1/2026,Manufacturing,16115.67,9844.13,3285,117516,-6271.54,more,6271.540000000001,92145
+1/1/2026,Mining and quarrying,23440.12,33263.41,6638,49300,9823.290000000005,less,9823.290000000005,44998
+1/1/2026,Other service activities,8756.34,11553.17,5676,12960,2796.83,less,2796.83,11575
+1/1/2026,"Professional, scientific and technical activities",15816.98,17049.8,5520,32356,1232.8199999999997,less,1232.8199999999997,28311
+1/1/2026,Public administration and defence; compulsory social security,27974.17,32788.24,25683,91193,4814.07,less,4814.07,63425
+1/1/2026,Real estate activities,22362.56,15470.16,2446,19168,-6892.4,more,6892.4000000000015,19604
+1/1/2026,Transportation and storage,19014.3,12734.4,18978,108259,-6279.9,more,6279.9,54851
+1/1/2026,"Water supply; sewerage, waste management and remediation activities",19822.96,23216.09,668,8817,3393.130000000001,less,3393.130000000001,9125
+1/1/2026,Wholesale and retail trade; repair of motor vehicles and motorcycles,10084.04,8161.35,29511,217656,-1922.69,more,1922.6900000000005,55052
+1/1/2027,Accommodation and food service activities,8795.24,7272.9,21538,65518,-1522.34,more,1522.3400000000001,23114
+1/1/2027,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,3103.05,3091.74,97159,65074,-11.31,more,11.31,5014
+1/1/2027,Administrative and support service activities,9615.68,5893.92,25283,125748,-3721.76,more,3721.76,31570
+1/1/2027,"Agriculture, forestry and fishing",51.91,4742.58,9,35504,4690.67,less,4690.67,35437
+1/1/2027,"Arts, entertainment and recreation",23451.07,23434.75,3441,10855,-16.32,more,16.31999999999971,12468
+1/1/2027,Construction,15383.44,6224.78,8535,534467,-9158.66,more,9158.66,234301
+1/1/2027,Education,25212.67,25941.37,42521,27565,728.7000000000007,less,728.7000000000007,26104
+1/1/2027,"Electricity, gas, steam and air conditioning supply",23733.85,26648.56,3160,16556,2914.7100000000028,less,2914.7100000000028,17317
+1/1/2027,Financial and insurance activities,28028.27,31499.51,9435,17804,3471.239999999998,less,3471.239999999998,20161
+1/1/2027,Human health and social work activities,21236.97,24201.23,38410,42478,2964.2599999999984,less,2964.2599999999984,29447
+1/1/2027,Information and communication,25274.21,31492.39,6205,19319,6218.18,less,6218.18,20299
+1/1/2027,Manufacturing,16393.66,10011.05,3160,105574,-6382.61,more,6382.610000000001,84178
+1/1/2027,Mining and quarrying,23823.99,33720.55,6303,43345,9896.560000000001,less,9896.560000000001,40271
+1/1/2027,Other service activities,8865.33,11637.78,5528,12279,2772.4500000000007,less,2772.4500000000007,11180
+1/1/2027,"Professional, scientific and technical activities",16049.32,17439.62,5300,29886,1390.2999999999993,less,1390.2999999999993,26661
+1/1/2027,Public administration and defence; compulsory social security,28392.52,33201.27,23934,82976,4808.749999999996,less,4808.749999999996,60111
+1/1/2027,Real estate activities,22686.95,15832.08,2368,18055,-6854.87,more,6854.870000000001,18658
+1/1/2027,Transportation and storage,19333.41,13030.34,18001,100737,-6303.07,more,6303.07,53516
+1/1/2027,"Water supply; sewerage, waste management and remediation activities",20170.73,23421.49,662,8311,3250.760000000002,less,3250.760000000002,8637
+1/1/2027,Wholesale and retail trade; repair of motor vehicles and motorcycles,10232.69,8251.25,27946,195491,-1981.44,more,1981.4400000000005,52463
